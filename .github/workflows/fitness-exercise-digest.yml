@@ -25,22 +25,28 @@ jobs:
         include:
           - category: "Sports Medicine"
             chunk_index: "1"
-            chunk_total: 1
-
+            chunk_total: 2
+          - category: "Sports Medicine"
+            chunk_index: "2"
+            chunk_total: 2
           - category: "Physical and Rehabilitation Medicine"
             chunk_index: "1"
-            chunk_total: 1
-
+            chunk_total: 2
+          - category: "Physical and Rehabilitation Medicine"
+            chunk_index: "2"
+            chunk_total: 2
           - category: "Nutritional Sciences"
             chunk_index: "1"
             chunk_total: 2
           - category: "Nutritional Sciences"
             chunk_index: "2"
             chunk_total: 2
-
           - category: "Behavioral Sciences"
             chunk_index: "1"
-            chunk_total: 1
+            chunk_total: 2
+          - category: "Behavioral Sciences"
+            chunk_index: "2"
+            chunk_total: 2
 
     steps:
       - name: Checkout repository
@@ -124,6 +130,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update fitness exercise digest results [skip ci]"
+            git commit -m "chore: update fitness and exercise digest results [skip ci]"
             git push
           fi

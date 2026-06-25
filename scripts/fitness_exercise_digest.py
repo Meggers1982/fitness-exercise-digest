@@ -276,7 +276,7 @@ def fetch_doi_content(doi: str) -> str:
         headers = {
             "User-Agent": (
                 "Mozilla/5.0 (compatible; research-digest-bot/1.0; "
-                "+https://github.com/Meggers1982/aging-longevity-digest)"
+                "+https://github.com/Meggers1982/fitness-exercise-digest)"
             ),
             "Accept": "text/html,application/xhtml+xml",
         }
@@ -401,7 +401,7 @@ Rules for content:
 - For rehabilitation: note whether the intervention is post-injury, post-surgery, or chronic condition management
 - For nutrition: specify whether the study tested whole dietary patterns, individual nutrients, or supplements — and at what dose
 - For behavioral sciences: distinguish between exercise motivation, adherence, habit formation, and mental health outcomes of exercise
-- Animal and cell studies are not automatically excluded — exercise physiology findings from non-human models can be newsworthy — but must be clearly labeled and scored lower
+- Animal-only and cell-only studies should already be excluded by screening; if any slip through, clearly label and score lower
 - Never use: breakthrough, cure, reverses, eliminates, proven to prevent
 - Always use: suggests, found that, associated with, early evidence indicates
 - No causal language for observational studies
