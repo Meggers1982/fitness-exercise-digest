@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26T13:10:19.422689+00:00",
-  "total_studies": 30,
-  "new_this_run": 30,
+  "last_updated": "2026-06-26T13:58:32.108005+00:00",
+  "total_studies": 50,
+  "new_this_run": 20,
   "studies": [
     {
       "pmid": "42349796",
@@ -103,27 +103,27 @@
     },
     {
       "pmid": "42340318",
-      "headline": "Healthcare workers say caring for patients with disabilities leaves them underprepared \u2014 and the gaps are specific",
+      "headline": "Healthcare workers don't know enough about disability care \u2014 and they know it",
       "journal": "American Journal of Physical Medicine & Rehabilitation",
       "pubdate": "2026 Jun 25",
       "doi": "10.1097/PHM.0000000000003075",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a secondary pooled analysis of survey data from healthcare professionals, patient-facing staff, and preclinical medical and physician assistant students (students N=142, staff N=1,609) at a Mid-Atlantic academic medical center. Participants identified their perceived areas of difficulty when caring for patients with disabilities. Students most commonly reported gaps in disability-specific knowledge and awareness of programs and resources, while staff most frequently flagged knowledge of programs and resources, disability-specific knowledge, and relevant laws and policies. This is described as the first study to systematically report on perceived areas of difficulty in caring for patients with disabilities, with findings mapped to established educational competencies.",
-      "why_it_matters": "For people with disabilities who exercise or seek physical rehabilitation, this study suggests their care providers may lack critical knowledge \u2014 which could affect the quality of adapted fitness guidance and rehabilitation they receive.",
-      "caveats": "secondary analysis, single-center, self-reported outcomes, observational design",
+      "summary": "Researchers conducted a secondary pooled prevalence analysis of survey data from healthcare professionals, patient-facing staff, and preclinical medical and physician assistant students at a Mid-Atlantic academic medical center. Students (n=142) most frequently cited disability-specific knowledge, knowledge of programs/resources, and healthcare accessibility as areas of difficulty. Staff (n=1,609) most frequently reported gaps in knowledge of programs/resources, disability-specific knowledge, and laws and policies. The study is described by the authors as the first to map perceived areas of difficulty in caring for patients with disabilities onto a national competency framework.",
+      "why_it_matters": "For people with disabilities who exercise or seek physical rehabilitation, these findings suggest their care providers may lack foundational knowledge \u2014 potentially affecting the quality and accessibility of fitness and rehab services they receive.",
+      "caveats": "observational design, single-center, self-reported outcomes, secondary analysis",
       "fact_check_note": "",
       "excluded": false,
       "relevance_score": 3,
-      "relevance_score_reason": "Focused on medical education and healthcare workforce training for disability care \u2014 only peripherally relevant to fitness and exercise journalism through the lens of rehabilitation access for people with disabilities.",
+      "relevance_score_reason": "This study addresses healthcare education and disability care knowledge gaps \u2014 it has minimal direct relevance to exercise science, fitness programming, or sports medicine journalism.",
       "pitch_angles": [
         {
-          "publication_type": "General fitness / adaptive fitness",
-          "headline": "Your Doctor May Not Know How to Help You Exercise with a Disability \u2014 Here's Why",
-          "hook": "A new study finds that most healthcare staff \u2014 including those in physical rehabilitation \u2014 report significant gaps in disability-specific knowledge.",
-          "why_it_fits": "Readers interested in adaptive fitness or exercising with a chronic condition or disability would want to know about structural barriers in the healthcare system they navigate.",
-          "pitch_angle": "A large survey of over 1,700 healthcare workers and students found that the majority feel underprepared to care for patients with disabilities, particularly around knowing what programs and resources exist. For people with disabilities trying to build or maintain an active lifestyle, this knowledge gap can translate directly into missed referrals and generic advice that doesn't fit their needs. The story could explore what patients can do to advocate for better-informed care.",
-          "caveats_to_flag": "Single academic medical center, self-reported perceptions only, secondary analysis \u2014 findings may not reflect all healthcare settings or provider types."
+          "publication_type": "General fitness / Well+Good",
+          "headline": "Your Doctor May Not Know How to Help You Exercise With a Disability \u2014 Here's Why",
+          "hook": "A new survey finds that the majority of healthcare students and nearly a third of clinical staff feel underprepared to care for patients with disabilities \u2014 including in areas directly relevant to fitness and rehabilitation access.",
+          "why_it_fits": "Well+Good readers increasingly include people with disabilities seeking inclusive fitness and wellness guidance, and this finding speaks directly to systemic gaps in the care they receive.",
+          "pitch_angle": "A large survey of over 1,700 healthcare workers and students found widespread self-reported gaps in disability-specific knowledge and awareness of accessibility resources. For exercisers with disabilities navigating physical therapy, sports medicine, or fitness recommendations, this suggests the system may not be adequately equipped to support them. The story could explore what better disability-competent care looks like in fitness and rehab settings.",
+          "caveats_to_flag": "Single academic medical center, self-reported perceptions only, secondary analysis of existing data \u2014 findings may not generalize nationally or internationally."
         }
       ],
       "run_date": "2026-06-26",
@@ -193,27 +193,27 @@
     },
     {
       "pmid": "42349840",
-      "headline": "Surgeons describe a no-implant biceps tendon repair that could cut shoulder surgery costs",
+      "headline": "New no-implant shoulder surgery technique may cut costs without sacrificing fixation strength",
       "journal": "Journal of ISAKOS: joint disorders & orthopaedic sports medicine",
       "pubdate": "2026 Jun 25",
       "doi": "10.1016/j.jisako.2026.101168",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Surgeons at Ochsner-Andrews Sports Medicine Institute describe a novel arthroscopic technique for biceps tenodesis \u2014 repair of the long head of the biceps tendon \u2014 that uses a single suture instead of metal implants or bone anchors. The paper is a technique description, not a clinical outcomes study, and does not report a patient cohort with outcome data. The approach is proposed to reduce cost and avoid complications associated with hardware such as interference screws or humeral drilling. Authors note that comparative studies with larger cohorts and longer follow-up are still needed.",
-      "why_it_matters": "Biceps tendon pathology is one of the most common causes of anterior shoulder pain in active adults, and a hardware-free repair option could mean lower surgical costs and potentially fewer implant-related complications \u2014 though those outcomes have not yet been tested in a controlled study.",
-      "caveats": "small sample (N<100), single-center, technique description only (no comparative outcomes data), short follow-up",
-      "fact_check_note": "Abstract does not report a patient cohort or clinical outcomes \u2014 this is a surgical technique description. Summary and framing corrected to reflect that; no efficacy data are presented.",
+      "summary": "Surgeons at Ochsner-Andrews Sports Medicine Institute describe a novel arthroscopic biceps tenodesis technique that fixes the long head of the biceps tendon to the shoulder capsule using only a single non-absorbable suture \u2014 no bone anchors, screws, or humeral drilling required. The paper is a technique description rather than a clinical outcomes study, with no formal patient cohort reported. The approach is intended to reduce implant-related costs and complications while preserving the biceps tendon's natural length-tension relationship. The authors note that comparative studies with larger cohorts and longer follow-up are needed before efficacy can be established.",
+      "why_it_matters": "Biceps tendon injuries are common among overhead athletes and active adults, and this technique could eventually offer a less expensive, hardware-free surgical option \u2014 though clinical validation is still pending.",
+      "caveats": "small sample (N<100), single-center, technique description only (no outcomes data), short follow-up, preprint equivalent (online ahead of print)",
+      "fact_check_note": "Abstract does not report a patient cohort or clinical outcomes \u2014 this is a surgical technique description only. Headline and summary reflect that accurately.",
       "excluded": false,
       "relevance_score": 4,
-      "relevance_score_reason": "Relevant to sports medicine coverage of shoulder injury but is a technique paper with no patient outcomes data, limiting practical takeaways for fitness and exercise audiences.",
+      "relevance_score_reason": "Relevant to sports medicine coverage of shoulder injuries but is a technique paper with no patient outcomes data, making it too preliminary and procedurally focused for most fitness and exercise journalism outlets.",
       "pitch_angles": [
         {
           "publication_type": "General fitness / sports medicine trade",
-          "headline": "Could a No-Hardware Shoulder Repair Change How Athletes Recover from Biceps Injuries?",
-          "hook": "A new surgical technique promises to fix one of the most common shoulder injuries in active adults without any metal implants \u2014 potentially lowering cost and complication risk.",
-          "why_it_fits": "Readers who train regularly are at elevated risk for biceps tendon pathology and would want to know about emerging treatment options.",
-          "pitch_angle": "Long head biceps tendon tears are a frequent outcome of heavy overhead activity and aging in active adults. Surgeons in New Orleans have described a new arthroscopic approach that skips the hardware entirely, using only a suture to secure the tendon \u2014 a method they say could cut costs and avoid screws-related complications. The technique hasn't been compared head-to-head with standard methods yet, but it's a signal of where minimally invasive shoulder surgery may be heading.",
-          "caveats_to_flag": "This is a technique description only \u2014 no patient outcomes have been reported. Journalists should be careful not to imply proven superiority over existing methods."
+          "headline": "Could Anchor-Free Surgery Be the Future of Biceps Tendon Repair?",
+          "hook": "A new surgical approach fixes a torn biceps tendon with a single suture \u2014 no screws, no bone drilling, no implants.",
+          "why_it_fits": "Biceps tendon pathology affects recreational lifters and overhead athletes alike, and any development that could reduce surgical complexity or recovery cost is worth tracking.",
+          "pitch_angle": "Surgeons have described a new implant-free technique for one of shoulder surgery's most common procedures. Early reports suggest it may preserve natural tendon mechanics while cutting costs \u2014 but it hasn't yet been tested in a formal patient cohort, making this a story to flag now and revisit when outcomes data emerge.",
+          "caveats_to_flag": "No patient outcomes have been reported; this is a technique description only. Clinical validation is explicitly called for by the authors themselves."
         }
       ],
       "run_date": "2026-06-26",
@@ -260,28 +260,118 @@
       "status": "new"
     },
     {
+      "pmid": "42348769",
+      "headline": "Grilled mackerel from supermarkets poses surprisingly high histamine poisoning risk, Vietnamese study finds",
+      "journal": "Food Additives & Contaminants. Part A, Chemistry, Analysis, Control, Exposure & Risk Assessment",
+      "pubdate": "2026 Jun 25",
+      "doi": "10.1080/19440049.2026.2690613",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Vietnamese food safety researchers tested 540 samples of three Scombridae fish species \u2014 Spanish mackerel, bullet tuna, and Indian mackerel \u2014 across wet markets, supermarkets, and food service establishments in Nghe An Province following four histamine poisoning outbreaks in 2024 that hospitalized over 400 people. While most samples showed low histamine levels, grilled Indian mackerel from supermarkets emerged as the highest-risk product category, with an estimated 3\u20136 poisoning cases per 10,000 servings \u2014 far higher than other channels. The finding suggests that heat processing does not eliminate histamine already formed in raw fish of inconsistent quality.",
+      "why_it_matters": "Fish is a staple high-protein food for active people and athletes, and this study is a reminder that seemingly 'safe' processed or cooked fish products \u2014 including from supermarkets \u2014 can carry food safety risks that raw-fish warnings alone don't capture.",
+      "caveats": "single-center, observational design",
+      "fact_check_note": "Sample size of 540 fish samples verified from abstract. Risk estimates of 3\u20136 cases per 10,000 servings for grilled Indian mackerel verified. Study is regional (Vietnam) and findings may not directly generalize to other markets or supply chains.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Food safety angle is tangentially relevant to fitness nutrition audiences who rely on fish as a protein source, but the study is highly regional and lacks direct exercise or performance relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "General fitness / Runner's World / Outside Magazine",
+          "headline": "Cooking Your Fish Doesn't Always Make It Safe \u2014 Here's What Athletes Eating High-Fish Diets Should Know",
+          "hook": "A new study found that grilled mackerel from supermarkets carried a histamine poisoning risk of up to 6 cases per 10,000 servings \u2014 higher than raw fish from open markets.",
+          "why_it_fits": "Endurance athletes and high-protein eaters who rely on fish as a lean protein source would benefit from understanding that processing and cooking don't guarantee safety from histamine toxicity.",
+          "pitch_angle": "Histamine fish poisoning \u2014 which causes rapid-onset symptoms including flushing, headache, and gastrointestinal distress that could sideline any athlete \u2014 may be more common than most people realize, and a Vietnamese study suggests the risk doesn't disappear when fish is cooked. Researchers found grilled Indian mackerel sold in supermarkets had the highest estimated poisoning risk of any product tested. A reported piece could broaden the story to what athletes need to know about fish storage, processing, and histamine risk when building high-fish training diets.",
+          "caveats_to_flag": "Study is specific to Vietnam; supply chain and food safety standards differ significantly in other countries. Journalists should not imply these exact risk figures apply to supermarket fish in the US or Europe."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42309134",
+      "headline": "Freezing a nerve in the ankle reduces spasticity for up to a year in stroke and brain injury survivors",
+      "journal": "American Journal of Physical Medicine & Rehabilitation",
+      "pubdate": "2026 Jun 25",
+      "doi": "10.1097/PHM.0000000000003042",
+      "groundbreaking": "First-in-class human study / Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a prospective observational cohort study (n=44 adults; 40 completed one-year follow-up) in which participants with spastic equinus and equinovarus foot due to upper motor neuron disorders \u2014 such as stroke or brain injury \u2014 received cryoneurolysis (targeted nerve freezing) of the tibial nerve. At one year, participants showed significant reductions in spasticity severity on the Modified Ashworth Scale, improved passive ankle range of motion, and measurable electrophysiologic changes including reduced H-reflex amplitude and H/M ratio, suggesting lasting neurological effects. The study is described as the first to quantify longitudinal electrophysiologic changes following tibial nerve cryoneurolysis for this condition.",
+      "why_it_matters": "For stroke and brain injury survivors working to regain mobility and participate in physical rehabilitation or exercise, a single procedure that reduces ankle spasticity for up to a year could meaningfully support walking, gait retraining, and return to physical activity.",
+      "caveats": "small sample (N<100), observational design, single-center, industry funding [Pacira BioSciences; AbbVie; Ipsen; Merz Pharma]",
+      "fact_check_note": "Multiple authors declared financial relationships with Pacira BioSciences (manufacturer of cryoneurolysis-related products) and other pharmaceutical companies; this represents a meaningful conflict of interest that should be flagged prominently in any coverage.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Directly relevant to physical rehabilitation and mobility recovery in neurological populations, with a clear one-year follow-up and objective outcome measures, but limited by small sample, observational design, and significant industry funding conflicts.",
+      "pitch_angles": [
+        {
+          "publication_type": "General fitness / Well+Good",
+          "headline": "One Nerve-Freezing Procedure May Help Stroke Survivors Walk Better for a Full Year",
+          "hook": "A single minimally invasive procedure that targets a nerve in the ankle with extreme cold significantly reduced spasticity and improved range of motion in stroke and brain injury survivors \u2014 with effects lasting up to 12 months.",
+          "why_it_fits": "Well+Good readers increasingly include people navigating recovery from neurological events or supporting loved ones who are, and mobility-focused rehabilitation advances resonate with this wellness-oriented audience.",
+          "pitch_angle": "In a year-long study of 40 adults with post-stroke or post-brain-injury ankle spasticity, researchers found that cryoneurolysis \u2014 a procedure that temporarily disables a nerve using extreme cold \u2014 produced lasting reductions in muscle stiffness and meaningful improvements in ankle flexibility. The findings suggest this approach could help people in neurorehabilitation programs engage more effectively in walking and movement therapy. The story should explore what this could mean for the roughly 17 million stroke survivors in the U.S. who deal with spasticity-related mobility limitations.",
+          "caveats_to_flag": "Small sample (n=40), no control group, observational design only \u2014 and multiple study authors disclosed financial ties to Pacira BioSciences, the maker of a cryoneurolysis device. Journalists must disclose these conflicts prominently and seek independent expert comment."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42347806",
+      "headline": "New tool reliably categorizes how African American dementia caregivers cope \u2014 opening a path to more culturally tailored support",
+      "journal": "Rehabilitation Psychology",
+      "pubdate": "2026 Jun 25",
+      "doi": "10.1037/rep0000684",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers developed and psychometrically evaluated the African American Dementia Caregiver Strategies Inventory (DCSI-A), a 23-item tool designed to categorize cognitive-behavioral intervention strategies used by distressed African American caregivers of people living with dementia. The tool was developed and tested using data from two parent randomized controlled trials, with high inter-rater agreement (93.3%, \u03ba=0.92). The most commonly used caregiver strategies included health-related interventions, socialization facilitation, assertiveness techniques, relaxation, and cognitive reframing.",
+      "why_it_matters": "This study has no direct relevance to exercise, fitness programming, physical performance, or active living.",
+      "caveats": "small sample (N<100), observational design, self-reported outcomes, secondary analysis",
+      "fact_check_note": "Study is a psychometric tool development and validation study focused on dementia caregiving strategies in a specific demographic group. It has no meaningful connection to fitness, exercise science, sports medicine, nutrition, or exercise psychology. Flagged for exclusion consideration but included per instructions.",
+      "excluded": false,
+      "relevance_score": 1,
+      "relevance_score_reason": "No connection to exercise, physical activity, fitness, sports medicine, or exercise behavior \u2014 this is a clinical psychology and caregiving measurement tool study with no fitness journalism application.",
+      "pitch_angles": [
+        {
+          "publication_type": "General fitness",
+          "headline": "Not applicable \u2014 this study does not fit fitness or exercise journalism outlets",
+          "hook": "This study examines a caregiver assessment tool for dementia psychology and has no exercise or fitness angle.",
+          "why_it_fits": "It does not fit any fitness or exercise publication covered by this digest.",
+          "pitch_angle": "This study is outside the scope of fitness and exercise journalism. Editors should not commission a pitch based on this research for Runner's World, Outside Magazine, Men's Health, Women's Health, Shape, Self, Well+Good, or comparable outlets. The study is better suited to clinical psychology, geriatric care, or health equity journalism.",
+          "caveats_to_flag": "Entirely outside fitness journalism scope; no exercise or physical activity component."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42339861",
-      "headline": "The Mediterranean diet is losing fans in Greece and Italy \u2014 and gaining them almost everywhere else",
+      "headline": "The Countries That Invented the Mediterranean Diet Are Quietly Abandoning It",
       "journal": "International Journal of Food Sciences and Nutrition",
       "pubdate": "2026 Jun 24",
       "doi": "10.1080/09637486.2026.2692948",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This commentary and narrative review by a single author examines a documented paradox: adherence to the Mediterranean diet is declining in the Mediterranean countries where it originated \u2014 including Greece, Spain, and southern Italy \u2014 while adoption is growing in non-Mediterranean nations. The author links this regional decline to rising rates of metabolic disease and obesity in those countries. No original research data were collected; the piece synthesizes existing epidemiological observations and calls for coordinated public health responses.",
-      "why_it_matters": "For everyday exercisers and active adults interested in diet quality, this piece is a reminder that geographic and cultural origin is no guarantee of healthy eating \u2014 and that the Mediterranean diet's benefits may be more accessible than ever for those outside the region.",
-      "caveats": "observational design, secondary analysis, single author commentary",
-      "fact_check_note": "Abstract confirms this is a commentary/narrative review with no original data. Direction of effect \u2014 declining adherence in Mediterranean countries, rising adoption elsewhere \u2014 verified against abstract. No N reported as no original study was conducted.",
+      "summary": "This narrative review examines a striking geographic reversal in Mediterranean diet adherence: populations in Greece, Spain, and Southern Italy \u2014 the diet's countries of origin \u2014 are increasingly abandoning it, while uptake is growing in non-Mediterranean countries. The author associates declining adherence in Mediterranean nations with rising rates of metabolic disease and obesity in those regions. No original human trial data or specific sample sizes are reported; this is a synthesis of existing surveillance and epidemiological data.",
+      "why_it_matters": "For everyday exercisers and health-conscious readers, the finding suggests that cultural proximity to a diet's origins is no guarantee of its continued practice \u2014 and that the environments shaping food choices may matter more than tradition. It also reinforces the Mediterranean diet's relevance as a dietary framework worth actively choosing, regardless of geography.",
+      "caveats": "observational design, secondary analysis, single author, no original data collected, no sample size applicable (review article)",
+      "fact_check_note": "Abstract does not report specific N, RCT data, or quantified effect sizes. Summary accurately reflects the review's descriptive and epidemiological framing. No causal language used.",
       "excluded": false,
       "relevance_score": 5,
-      "relevance_score_reason": "A counterintuitive dietary trend finding has general wellness appeal, but the lack of original data, single-author commentary format, and absence of any exercise or performance angle limit its fitness journalism value.",
+      "relevance_score_reason": "Moderately relevant as a nutrition angle for fitness audiences interested in dietary patterns, but lacks original human data, exercise-specific outcomes, or performance implications, limiting its direct applicability to fitness journalism.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / Self / Women's Health",
-          "headline": "The Mediterranean Diet Is Thriving Everywhere Except the Mediterranean",
-          "hook": "The countries that invented the Mediterranean diet are abandoning it \u2014 and it's driving up obesity and metabolic disease rates.",
-          "why_it_fits": "Readers of these outlets follow evidence-based dietary trends and appreciate a counterintuitive angle on a diet they've heard praised for decades.",
-          "pitch_angle": "A new review highlights a striking public health paradox: adherence to the Mediterranean diet \u2014 consistently linked to lower risk of chronic disease \u2014 is falling sharply in Greece, Spain, and southern Italy, while interest is surging in non-Mediterranean countries. Researchers associate the regional decline with rising metabolic disease and obesity. For health-conscious readers, the story is both a cautionary tale and a practical prompt to evaluate their own eating patterns against the evidence.",
-          "caveats_to_flag": "Single-author narrative review with no original data; causal links between declining adherence and rising disease rates are observational; findings are descriptive, not prescriptive."
+          "publication_type": "Well+Good / General fitness",
+          "headline": "The People Who Invented the Mediterranean Diet Have Stopped Eating It \u2014 Here's What That Means for the Rest of Us",
+          "hook": "New research reveals a striking paradox: the Mediterranean diet is losing ground in the very countries that created it, even as evidence for its health benefits keeps growing.",
+          "why_it_fits": "Well+Good readers are highly engaged with evidence-based dietary patterns and wellness culture, making this geographic irony a compelling hook for a story about how food environments shape health choices.",
+          "pitch_angle": "A new review in the International Journal of Food Sciences and Nutrition flags a counterintuitive global shift: Greeks, Italians, and Spaniards are increasingly moving away from the Mediterranean diet, while non-Mediterranean populations are adopting it. The author associates this abandonment with rising obesity and metabolic disease in those regions. For wellness-minded readers, it raises a pointed question \u2014 if the people who invented the healthiest diet in the world have stopped eating it, what's driving that, and what can we learn from it?",
+          "caveats_to_flag": "This is a single-author narrative review with no original data; associations between diet abandonment and disease trends are correlational, not causal. Journalists should note the review does not include an exercise or fitness component."
         }
       ],
       "run_date": "2026-06-26",
@@ -427,35 +517,35 @@
     },
     {
       "pmid": "42340609",
-      "headline": "ACL surgery patients may get the same stability with less knee pain by switching to a less popular graft source",
+      "headline": "A less common ACL graft causes significantly less knee pain and stiffness after surgery than the gold-standard option \u2014 with equally good outcomes",
       "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
       "pubdate": "2026 Jun 24",
       "doi": "10.1002/ksa.70499",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study / Clear fitness or performance implication",
+      "groundbreaking": "Counterintuitive finding / Clear fitness or performance implication",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a systematic review and meta-analysis of 15 randomized controlled trials (2014\u20132025) comparing quadriceps tendon (QT) autografts to the two most common ACL reconstruction graft options: bone-patellar tendon-bone (BPTB) and hamstring tendon (HT) grafts, in adults undergoing primary ACL reconstruction. QT grafts produced equivalent knee stability (KT-1000 measurements), comparable patient-reported functional outcomes (IKDC, Lysholm, KOOS, Tegner), and similar graft failure rates at 12\u201324 months post-surgery. Crucially, donor-site morbidity \u2014 pain, weakness, and complications at the tissue harvest site \u2014 was substantially lower with QT versus BPTB, with high certainty evidence on this outcome. The authors conclude QT is an evidence-supported alternative for primary ACL reconstruction.",
-      "why_it_matters": "ACL tears are among the most common and career-altering injuries in physically active people, and the choice of graft affects not just knee function but also recovery from the harvest site. This meta-analysis suggests that quadriceps tendon grafts offer athletes and active adults a potentially less painful recovery without sacrificing stability or function.",
+      "summary": "A systematic review and meta-analysis pooled data from 15 randomized controlled trials (2014\u20132025) comparing quadriceps tendon (QT) autografts to the traditional bone-patellar tendon-bone (BPTB) and hamstring tendon (HT) grafts in adults undergoing primary ACL reconstruction. QT grafts produced comparable knee stability (KT-1000 measurements), graft failure rates, and patient-reported functional outcomes (IKDC, Lysholm, KOOS, Tegner scores) to both BPTB and HT grafts at 12\u201324 months post-surgery. Critically, donor-site morbidity \u2014 pain, weakness, and complications at the harvest site \u2014 was substantially and with high certainty lower with QT compared to BPTB, making QT a clinically supported alternative graft choice.",
+      "why_it_matters": "ACL tears are among the most common and career-altering injuries in active adults and athletes, and the choice of graft affects not just recovery speed but the long-term health of the donor site \u2014 particularly relevant for athletes who rely on the quadriceps or patellar tendon for running, jumping, and cutting. This evidence suggests that one widely available graft option may offer similar performance with meaningfully less pain and complications at the harvest site.",
       "caveats": "short follow-up, secondary analysis",
-      "fact_check_note": "Abstract notes a small 12-month KOOS signal favouring QT that resolved by 24 months; this nuance is preserved. GRADE certainty was mostly moderate except donor-site morbidity vs BPTB which reached high certainty \u2014 both reflected accurately.",
+      "fact_check_note": "Abstract confirms 15 RCTs included; KT-1000 stability outcomes showed no significant difference between QT vs. HT or QT vs. BPTB; donor-site morbidity lower for QT vs. BPTB with high certainty per GRADE; functional scores largely equivalent; small 12-month KOOS signal favored QT but 24-month effects were null. All figures accurately represented above.",
       "excluded": false,
       "relevance_score": 8,
-      "relevance_score_reason": "Level I evidence from 15 RCTs on a high-interest injury topic affecting recreational and competitive athletes, with a counterintuitive practical implication \u2014 a less commonly used graft may produce less post-op morbidity \u2014 making it highly pitchable to multiple fitness outlets.",
+      "relevance_score_reason": "Level I evidence from 15 RCTs with clear performance and return-to-sport implications for a high-interest injury population; directly addresses ACL reconstruction graft selection with a counterintuitive donor-site morbidity finding that has real practical relevance for active adults.",
       "pitch_angles": [
         {
           "publication_type": "Runner's World / Outside Magazine",
-          "headline": "The ACL Graft Choice That Could Mean Less Pain and the Same Performance",
-          "hook": "A meta-analysis of 15 clinical trials found that a less commonly used ACL graft source delivers equivalent stability and function \u2014 but with significantly less donor-site pain.",
-          "why_it_fits": "Endurance athletes and outdoor sport participants fear ACL tears and are intensely interested in what a reconstruction means for their long-term return to running, trail sports, and skiing.",
-          "pitch_angle": "When athletes tear their ACL, the most debated decision is which tissue to use to rebuild the ligament. A new meta-analysis of 15 randomized trials found that the quadriceps tendon graft \u2014 less popular than the patellar tendon or hamstring options \u2014 produces equivalent knee stability and functional scores at two years, but with substantially less donor-site morbidity than the gold-standard patellar tendon graft. For active adults facing ACL surgery, this is a conversation worth having with their surgeon before going under the knife.",
-          "caveats_to_flag": "Follow-up capped at 24 months \u2014 long-term outcomes and re-tear rates beyond two years remain unclear; evidence certainty is mostly moderate except for donor-site morbidity."
+          "headline": "There's a Better ACL Graft for Athletes \u2014 And Most Surgeons Still Don't Use It First",
+          "hook": "A meta-analysis of 15 randomized trials found that a less commonly used ACL graft works just as well as the gold standard but causes far less donor-site pain and complications.",
+          "why_it_fits": "Endurance and outdoor athletes face high ACL injury risk and care deeply about return-to-sport timelines and long-term knee health \u2014 graft choice directly affects both.",
+          "pitch_angle": "When athletes tear their ACL, surgeons typically reach for the patellar tendon or hamstring \u2014 but a growing body of randomized evidence suggests the quadriceps tendon may be the smarter choice. A new meta-analysis of 15 RCTs found equivalent stability and function at up to two years, but substantially lower donor-site morbidity with the quad graft versus the patellar tendon option. For runners and outdoor athletes who need every muscle firing on return to sport, minimizing collateral damage at the harvest site could meaningfully affect recovery quality.",
+          "caveats_to_flag": "Evidence extends only to 24 months post-surgery; longer-term outcomes remain unclear; the finding is aggregate across RCTs, not a single large trial; surgeons' familiarity and technique with each graft type varies and was not controlled for."
         },
         {
           "publication_type": "Women's Health / Self",
-          "headline": "ACL Surgery Just Got a Little Less Painful \u2014 If You Choose the Right Graft",
-          "hook": "Women tear their ACLs at higher rates than men, and a new analysis suggests one graft option leaves the knee equally strong with significantly less harvest-site pain.",
-          "why_it_fits": "Women's Health and Self readers are active, often in sports with high ACL injury rates (soccer, skiing, fitness classes), and respond strongly to evidence-based surgical decision-making content.",
-          "pitch_angle": "ACL reconstruction is one of the most common orthopedic surgeries in active women, and the type of graft used can shape the entire recovery. A meta-analysis of 15 RCTs found the quadriceps tendon graft matches the traditional patellar tendon graft for stability and functional outcomes while causing considerably less donor-site pain and complications. For women weighing their options after an ACL tear, this research adds important context to the conversation with their orthopedic surgeon.",
-          "caveats_to_flag": "The analysis did not separate outcomes by sex; follow-up was limited to two years; certainty of evidence was moderate for most outcomes."
+          "headline": "If You Ever Tear Your ACL, This Graft Choice Could Mean a Less Painful Recovery",
+          "hook": "A sweeping review of 15 clinical trials found that one ACL graft option causes significantly less pain and complications at the harvest site \u2014 without sacrificing any of the stability or function of the more commonly used alternatives.",
+          "why_it_fits": "Active women face disproportionately high ACL injury rates and are underserved by sports medicine coverage that speaks to their specific recovery concerns.",
+          "pitch_angle": "ACL reconstruction is one of the most common surgeries in active adults, but not all grafts are created equal when it comes to what you give up to get one. A new systematic review pooling data from 15 randomized controlled trials found that the quadriceps tendon graft achieves the same stability and functional outcomes as the traditional patellar tendon graft at one to two years post-op \u2014 but with high-certainty evidence of substantially lower donor-site pain and complications. For women athletes who are statistically more likely to need ACL surgery, knowing this option exists is the kind of information worth bringing to a pre-surgical consultation.",
+          "caveats_to_flag": "Follow-up is limited to 24 months; study does not break down outcomes by sex; readers should be advised this is not clinical guidance and graft selection should be made with their surgeon."
         }
       ],
       "run_date": "2026-06-26",
@@ -465,27 +555,155 @@
     },
     {
       "pmid": "42339815",
-      "headline": "That neck collar claiming to prevent concussions? A new review finds little real-world evidence it works",
+      "headline": "Those neck-compression concussion collars worn by athletes? A new review finds they don't actually prevent concussions",
       "journal": "Sports Health",
       "pubdate": "2026 Jun 24",
       "doi": "10.1177/19417381261453672",
       "groundbreaking": "Counterintuitive finding / Overturns prior research",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This scoping review examined 22 studies on jugular venous compression (JVC) collars \u2014 wearable devices that apply gentle pressure to the neck veins to increase intracranial pressure, theorized to reduce brain movement during impact \u2014 across four categories: animal models (n=4), human biomechanics (n=4), athlete studies (n=11), and SWAT tactical personnel (n=3). Across athlete studies, there was no difference in concussion rates between collared and uncollared groups during a season, and no clinically significant differences in neurocognitive performance. While some brain imaging differences were statistically significant, they were inconsistent and of uncertain clinical meaning. Additionally, six of eleven athlete studies are currently under investigation, raising concerns about the evidence base.",
-      "why_it_matters": "JVC collars have been marketed aggressively to parents, coaches, and athletes in contact sports as a concussion-prevention tool, but this review suggests the current evidence does not support that claim \u2014 an important finding for anyone making purchasing decisions for young or adult athletes.",
-      "caveats": "observational design, scoping review (not systematic review with meta-analysis), multiple studies from same athlete cohort, six of eleven athlete studies under investigation, animal and biomechanical studies included",
-      "fact_check_note": "Verified: 22 articles total; no difference in concussion rates in athletes; no clinically significant neurocognitive differences; imaging changes present but inconsistent and of uncertain clinical significance; 6/11 athlete studies under investigation; authors conclude evidence does not support effectiveness. Framing of 'under investigation' refers to the studies themselves being scrutinized, not the device being under regulatory investigation \u2014 corrected for clarity in summary.",
+      "summary": "Researchers conducted a scoping review of 22 studies examining jugular venous compression (JVC) collars \u2014 wearable devices that apply light pressure to the neck to theoretically reduce brain movement during impacts \u2014 across animal models, biomechanics studies, athlete cohorts, and SWAT breacher training populations. When looking at actual concussion rates, collared and non-collared athletes showed no statistically significant difference across a season of play. Neurocognitive performance also did not differ meaningfully between groups. While some brain imaging studies showed statistically significant changes in collared athletes, the clinical significance of those changes remains unclear, and 6 of the 11 athlete studies are currently under investigation for undisclosed reasons.",
+      "why_it_matters": "JVC collars are commercially available and actively marketed to parents, coaches, and athletes as a concussion-prevention tool \u2014 this review suggests the current evidence does not support that claim, and independent research is urgently needed.",
+      "caveats": "observational design, scoping review (Level 5 evidence), several included studies used overlapping athlete cohorts, 6 of 11 athlete studies under investigation, imaging findings of uncertain clinical significance",
+      "fact_check_note": "Abstract explicitly states 'current research does not support the effectiveness of JVC collars for concussion reduction.' Summary and headline reflect this accurately. The abstract does not identify why 6 studies are under investigation \u2014 that uncertainty is noted.",
       "excluded": false,
       "relevance_score": 8,
-      "relevance_score_reason": "Directly challenges a commercially marketed concussion-prevention device widely used in youth and adult contact sports, with a counterintuitive finding that has immediate consumer relevance; scoping review design and concerns about underlying studies limit strength of evidence.",
+      "relevance_score_reason": "Counterintuitive finding with direct consumer and athlete implications \u2014 JVC collars are commercially sold and actively marketed, making a negative efficacy review highly newsworthy for sports health and parent-facing outlets.",
       "pitch_angles": [
         {
           "publication_type": "Runner's World / Outside Magazine / General fitness",
-          "headline": "Parents Are Buying Neck Collars to Prevent Concussions. A New Review Says the Evidence Isn't There.",
-          "hook": "A scoping review of 22 studies found that jugular venous compression collars \u2014 sold as a concussion shield for contact sport athletes \u2014 did not reduce concussion rates or improve neurocognitive outcomes in real-world athlete populations.",
-          "why_it_fits": "Athletes in contact sports, parents of youth players, and coaches regularly face purchasing decisions about protective gear, making evidence-based guidance on what works \u2014 and what doesn't \u2014 directly useful.",
-          "pitch_angle": "Jugular venous compression collars have been marketed as a way to reduce brain sloshing during head impacts by slightly raising intracranial pressure. But a new scoping review covering 22 studies finds no reduction in actual concussion rates among athletes who wore them, no meaningful improvement in cognitive testing, and inconsistent brain imaging results whose clinical significance remains unknown. Perhaps most striking: six of the eleven athlete studies in the review are currently under scientific scrutiny. Experts say more independent research is urgently needed before these devices can be recommended.",
-          "caveats_to_flag": "Scoping review, not a meta-analysis; multiple athlete studies drew from the same cohort; several included studies are under investigation; no adverse effects from collar use were reported, so the review is not saying the device is harmful \u2014 only that its claimed benefits are unproven."
+          "headline": "Parents Are Buying These Neck Collars to Protect Kids From Concussions. Science Says They Don't Work.",
+          "hook": "Jugular venous compression collars have been marketed to athletes and parents as a concussion shield \u2014 but a new review of 22 studies finds no evidence they actually reduce concussion rates.",
+          "why_it_fits": "Concussion prevention is a top concern for parents of youth athletes and coaches across contact and collision sports, and a product claiming to address that fear \u2014 without the evidence to back it up \u2014 is a story audiences care deeply about.",
+          "pitch_angle": "A scoping review published in Sports Health examined every available study on neck-compression collars designed to prevent concussions and found that collared athletes had the same concussion rates as those without them. Neurocognitive outcomes were also no different. The authors call for independent, diversely funded research \u2014 a significant flag given that several included studies are currently under investigation.",
+          "caveats_to_flag": "Scoping review is the lowest level of evidence; studies used overlapping athlete cohorts; some imaging findings did differ between groups but their real-world meaning is unknown. Journalists should not characterize the collars as harmful \u2014 the review found no adverse effects either."
+        },
+        {
+          "publication_type": "Well+Good / Women's Health / Self",
+          "headline": "The 'Concussion Prevention' Collar Athletes Are Wearing May Not Do What It Claims",
+          "hook": "A device worn around the neck and sold as a brain protector for contact sport athletes shows no meaningful benefit in the most comprehensive review of the evidence to date.",
+          "why_it_fits": "Wellness-focused readers are increasingly savvy about distinguishing marketing claims from science, and a product targeting a genuine safety concern \u2014 with weak supporting evidence \u2014 fits the investigative wellness beat perfectly.",
+          "pitch_angle": "JVC collars apply gentle pressure to neck veins to theoretically reduce brain movement during hits \u2014 but after reviewing 22 studies, researchers found no reduction in actual concussion rates among athletes who wore them. With the devices commercially available and actively promoted to youth sport families, this review raises important questions about evidence standards in the sports safety product market.",
+          "caveats_to_flag": "Review is scoping level (not a meta-analysis); multiple included studies used the same athlete cohorts, which may inflate apparent consensus; imaging differences between groups were real but their clinical meaning is unknown."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Sports Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42342080",
+      "headline": "Eating less variety of food partly explains why food insecurity raises depression risk \u2014 but it's not the whole story",
+      "journal": "Appetite",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1016/j.appet.2026.108696",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed two cross-sectional datasets \u2014 a UK sample (N=394) and the US NHANES 2017\u201318 dataset (N=4,011) \u2014 to examine whether dietary patterns statistically mediate the well-established link between food insecurity and depression. They found that food insecurity was associated with lower dietary diversity and greater meal irregularity, and that lower dietary diversity was the only dietary variable that significantly mediated the food insecurity\u2013depression relationship, accounting for 23% of the association in the UK sample and 6% in the US sample. The findings suggest diet quality partially explains the mental health toll of food insecurity, but most of the relationship remains unexplained by diet alone.",
+      "why_it_matters": "For people interested in diet and mental wellbeing, this study suggests that eating a wider variety of foods may be one modifiable factor associated with better mood \u2014 though food insecurity's link to depression runs through many channels beyond what you eat.",
+      "caveats": "observational design, cross-sectional, self-reported outcomes, short follow-up",
+      "fact_check_note": "Effect sizes accurately represented: dietary diversity mediated 23% (UK) and 6% (US) of the food insecurity\u2013depression association. Causal language avoided per observational design rules.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Observational nutrition and mental health study with a reasonable general-population sample, but the food insecurity and depression framing has limited direct fitness journalism application and the effect sizes for diet mediation are modest.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self / General fitness",
+          "headline": "Eating More Food Variety Is Linked to Better Mood \u2014 Especially When Grocery Budgets Are Tight",
+          "hook": "A new study across two countries found that eating a wider variety of foods is one of the few dietary factors associated with lower depression risk among people facing food insecurity.",
+          "why_it_fits": "Well+Good and Self readers are highly engaged with the intersection of nutrition, mental wellness, and everyday habits \u2014 and dietary diversity is an actionable, accessible concept.",
+          "pitch_angle": "Researchers analyzed data from over 4,400 people in the UK and US and found that food insecurity is strongly linked to depression \u2014 and that eating less variety of food is a partial but meaningful part of that connection. While diet alone doesn't explain most of the relationship, dietary diversity was the one consistent dietary factor associated with mood across both datasets. For readers interested in how what they eat shapes how they feel, this offers a practical, budget-conscious lens on the food\u2013mood connection.",
+          "caveats_to_flag": "Cross-sectional design means no causality can be established; self-reported dietary and mood data are subject to recall bias; dietary diversity accounted for only a small fraction of the food insecurity\u2013depression link, so oversimplifying this as a dietary fix would be misleading."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Behavioral Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42342602",
+      "headline": "Digital tools improve working memory and mental flexibility in kids with ADHD \u2014 but the overall effect is still modest",
+      "journal": "Physical & Occupational Therapy in Pediatrics",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1080/01942638.2026.2689070",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a systematic review and meta-analysis of 34 studies (14 RCTs included in the meta-analysis) published between 2020 and 2025 examining technology-based interventions \u2014 both immersive (e.g., VR) and non-immersive (e.g., apps, computer programs) \u2014 for children and adolescents with ADHD. The pooled analysis found a small-to-moderate overall effect on executive functions (SMD = 0.24), which did not reach statistical significance (p = 0.059), with substantial heterogeneity (I\u00b2 = 68.3%). However, domain-specific analyses found significant improvements in working memory (SMD = 0.36, p = 0.008) and cognitive flexibility (SMD = 0.30, p < 0.05), while improvements in inhibitory control were not statistically significant.",
+      "why_it_matters": "For parents, coaches, and fitness professionals working with children with ADHD, this suggests that digital cognitive tools may support specific mental skills relevant to athletic learning and sport participation \u2014 though the overall evidence base remains mixed.",
+      "caveats": "short follow-up, observational design",
+      "fact_check_note": "The overall executive function effect (SMD = 0.24, p = 0.059) did not reach conventional statistical significance; this is accurately represented above and not overstated as a positive finding.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to youth fitness and sport participation through an ADHD lens, but the study is primarily occupational therapy\u2013focused with no direct exercise or physical activity intervention, limiting its fit for core exercise science journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General fitness",
+          "headline": "Apps and VR May Sharpen Focus in Kids With ADHD \u2014 But the Evidence Is Still Early",
+          "hook": "A new meta-analysis finds digital tools can meaningfully improve working memory and cognitive flexibility in children with ADHD \u2014 two mental skills that also matter on the playing field and in the gym.",
+          "why_it_fits": "Well+Good readers interested in children's wellness and neurodiversity will connect with findings that link cognitive training tools to real-world functioning, including in active and athletic contexts.",
+          "pitch_angle": "Analyzing 14 randomized controlled trials, researchers found that technology-based interventions \u2014 from apps to virtual reality \u2014 produced significant improvements in working memory and cognitive flexibility in youth with ADHD, though the overall executive function effect fell just short of statistical significance. These cognitive skills are foundational for sport learning, coachability, and physical activity engagement. The piece could explore how parents and youth sports coaches might think about digital cognitive tools as a complement to physical activity.",
+          "caveats_to_flag": "High heterogeneity across studies (I\u00b2 = 68.3%), overall effect not statistically significant, no direct physical activity component measured \u2014 journalists should avoid implying these tools replace exercise or behavioral interventions."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42341741",
+      "headline": "Mental practice and structured cognitive strategies show promise for improving daily function after stroke \u2014 but the evidence is fragmented",
+      "journal": "Topics in Stroke Rehabilitation",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1080/10749357.2026.2684949",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "An integrative review of 40 studies \u2014 half of which were randomized controlled trials \u2014 examined cognitive strategy interventions aimed at improving activity-level rehabilitation outcomes for stroke survivors with cognitive impairments. Researchers screened 35,250 articles and identified three main categories of strategies: domain-specific, mental practice, and global approaches. Global approaches showed the most consistent results, while mental practice strategies appeared most suitable for those with mild cognitive impairment; however, inconsistent outcome measures across studies made cross-study comparisons difficult.",
+      "why_it_matters": "For stroke survivors working to rebuild functional independence and physical activity capacity, this review suggests that structured cognitive strategies \u2014 particularly global approaches \u2014 may support rehabilitation engagement, though the evidence base needs standardization before firm clinical conclusions can be drawn.",
+      "caveats": "observational design, self-reported outcomes, short follow-up",
+      "fact_check_note": "N=40 studies included from 35,250 screened confirmed. RCT count of 20 (half) confirmed. Three cognitive strategy categories confirmed. No single-study N reported \u2014 this is a review. Delivery window of 6 days to 9.5 years post-stroke confirmed. Outcome measure inconsistency (47 different measures) confirmed.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant to post-stroke rehabilitation and functional recovery but lacks direct application to recreational exercise, fitness programming, or active populations \u2014 limited fitness journalism angle beyond a niche rehabilitation or disability-sport context.",
+      "pitch_angles": [
+        {
+          "publication_type": "General fitness / Well+Good",
+          "headline": "Training Your Brain After Stroke May Be Just as Important as Physical Rehab",
+          "hook": "A sweeping review of stroke rehabilitation research finds that structured cognitive strategies \u2014 including mental practice and visualization \u2014 may be key to getting stroke survivors moving again.",
+          "why_it_fits": "Well+Good covers mind-body wellness, rehabilitation, and the intersection of mental and physical health \u2014 readers include people navigating recovery and caregivers of those who are.",
+          "pitch_angle": "Researchers analyzed 40 studies on cognitive strategy interventions for stroke survivors and found that structured mental approaches \u2014 from targeted cognitive training to visualization and global problem-solving strategies \u2014 were associated with improvements in functional independence and physical activity outcomes. The finding that 'global' cognitive approaches were most consistently effective has implications not just for clinicians but for the growing number of stroke survivors trying to stay active and rebuild their lives. The catch: the research field is too fragmented to draw firm conclusions, with 47 different outcome measures used across studies.",
+          "caveats_to_flag": "This is a review of heterogeneous studies, not a single trial; outcome measures were inconsistent across studies, limiting firm conclusions; findings apply to post-stroke populations with cognitive impairment, not general exercisers."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42343192",
+      "headline": "Even a 10% strength imbalance between legs measurably hurts athletic performance \u2014 not just injury risk",
+      "journal": "Sports Health",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1177/19417381261457117",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers tested 41 elite male handball players (mean age ~21 years) on a battery of lower-limb functional tests including vertical jumps, five single-leg hop variations, and the Y balance test, then grouped athletes by whether their left-to-right leg strength asymmetry exceeded 10%. Athletes with asymmetries above the 10% threshold performed significantly worse across virtually all tests, with large effect sizes (d = 0.85\u20132.62) for vertical jump, countermovement jump, single hop for distance, medial rotation hop, and dynamic balance measures. The study is cross-sectional, so causality cannot be established.",
+      "why_it_matters": "The 10% asymmetry threshold is widely cited in sports medicine but often framed solely as an injury-risk marker \u2014 this study suggests it also has direct, measurable consequences for athletic performance, which may motivate more athletes and coaches to prioritize leg-symmetry training.",
+      "caveats": "small sample (N<100), observational design, cross-sectional study, elite athlete sample (may not generalize), single-center, male athletes only",
+      "fact_check_note": "Sample size confirmed as N=41 from abstract. Effect sizes (d = 0.85\u20132.62) confirmed as reported. Direction of effect confirmed: <10% asymmetry group outperformed >10% group. Cross-sectional design means causality cannot be claimed \u2014 this is noted in summary.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Practical performance implication and injury-prevention angle are strong for fitness audiences, but elite-only sample, small N, and cross-sectional design limit generalizability and cap the score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Runner's World / Outside Magazine / Men's Health",
+          "headline": "One Leg Stronger Than the Other? That Gap Is Quietly Killing Your Performance",
+          "hook": "Elite handball players with more than a 10% strength difference between legs didn't just face higher injury risk \u2014 they jumped lower, balanced worse, and moved less powerfully across the board.",
+          "why_it_fits": "Leg strength asymmetry is common among recreational runners and gym-goers who favor one side, and performance consequences \u2014 not just injury warnings \u2014 give this story a motivational, actionable angle.",
+          "pitch_angle": "A new study in Sports Health found that elite athletes with left-right leg strength gaps above 10% performed significantly worse on every measure of jump power and dynamic balance compared to more symmetrical peers. The effect sizes were large, suggesting this isn't a marginal difference. For everyday athletes who train one leg harder than the other \u2014 or who are returning from a lower-limb injury \u2014 these findings suggest that symmetry testing should be part of standard performance tracking, not just injury screening.",
+          "caveats_to_flag": "Study involved only 41 elite male handball players, so findings may not apply to recreational athletes or women. Cross-sectional design means the researchers observed an association \u2014 they cannot confirm the asymmetry caused the performance deficits."
         }
       ],
       "run_date": "2026-06-26",
@@ -562,6 +780,104 @@
           "why_it_fits": "Women's Health and Self readers are interested in how exercise science applies specifically to women's bodies \u2014 particularly around injury, recovery, and return to fitness.",
           "pitch_angle": "ACL injuries disproportionately affect women in sport, and new MRI research adds an unexpected layer to the recovery story: calf muscle atrophy after ACL surgery persists differently by sex. While males showed no significant recovery of calf muscle size from one to five years post-surgery, females showed meaningful growth in both calf muscles over the same period. The finding raises questions about whether standard rehab protocols \u2014 designed without sex-specific targets \u2014 are optimized for women returning to sport.",
           "caveats_to_flag": "Small sample sizes in sex-stratified analyses make these findings preliminary; secondary analysis of existing data; a control group of only 17 individuals limits the strength of cross-sectional comparisons."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Sports Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42330048",
+      "headline": "Going to the gym may not cancel out the damage done by sitting all day, researchers argue",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1249/MSS.0000000000004055",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a perspective or commentary piece published in Medicine and Science in Sports and Exercise, Dempsey and colleagues argue that regular physical activity does not fully offset the health risks associated with high volumes of sedentary behavior. The piece appears to be part of a published debate alongside a rebuttal (PMID 42330051), suggesting this is a scientific opinion or position paper rather than a primary data study. No sample size (N), study design, or original data are described in the available abstract.",
+      "why_it_matters": "The debate over whether an hour at the gym 'cancels out' a full day of sitting is one of the most practically relevant questions in public health fitness messaging \u2014 and this position paper suggests the answer is no, meaning how much you move throughout the entire day may matter as much as your structured workout.",
+      "caveats": "No original data presented \u2014 commentary or position paper, abstract only, unable to verify sample size or study design from available text",
+      "fact_check_note": "The abstract provided contains no methods, sample size, or results \u2014 only author affiliations and conflict of interest statement. The summary and framing reflect this limitation. This appears to be a commentary or position paper, not a primary research study. Scored and framed accordingly.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Highly relevant topic for fitness journalism \u2014 the 'exercise offsets sitting' debate is a perennial story with broad audience appeal \u2014 but the absence of original data in the abstract limits confidence in specific claims and reduces its standalone pitch value.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self / General fitness",
+          "headline": "Your Morning Workout Might Not Undo a Full Day of Sitting, Scientists Say",
+          "hook": "One of the most reassuring things fitness culture tells us \u2014 that a daily workout neutralizes the harm of sitting \u2014 may not hold up, according to researchers publishing in one of exercise science's top journals.",
+          "why_it_fits": "Wellness-oriented readers who structure their lives around a single daily workout are directly implicated by this finding and will want actionable alternatives.",
+          "pitch_angle": "A new scientific position paper in Medicine and Science in Sports and Exercise argues that physical activity does not fully offset the health risks of prolonged sedentary behavior \u2014 challenging a widely held belief among gym-goers. The piece is part of an active scientific debate, which itself is a compelling story: experts disagree, and how that gets resolved has real implications for how we think about movement throughout the day, not just during scheduled exercise. Pair with the companion rebuttal study for a balanced, nuanced feature.",
+          "caveats_to_flag": "This is a commentary or opinion piece, not a primary data study; the full text was not available for review; readers should be told this reflects a scientific argument, not a new clinical trial. The companion rebuttal (PMID 42330051) takes the opposite position and should be included for balance."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Sports Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42336621",
+      "headline": "A five-minute walk every hour boosted mood and cut fatigue in nearly 20,000 people \u2014 and most stuck with it",
+      "journal": "British Journal of Sports Medicine",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1136/bjsports-2025-111221",
+      "groundbreaking": "First-in-class human study / Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at Columbia University embedded a two-week pragmatic intervention into an interactive NPR podcast, enrolling 19,342 adults and tracking 11,484 who initiated the intervention. Participants took 5-minute walking breaks every 30, 60, or 120 minutes and reported on fatigue, positive affect, and negative affect before and after the two weeks. All three break-frequency arms were found feasible and acceptable; fatigue decreased and positive affect increased across all groups, with a dose-response pattern showing greater improvements at higher break frequencies. Hourly breaks (every 60 minutes) offered the best balance between feasibility and psychosocial benefit.",
+      "why_it_matters": "For the large share of adults who sit for hours on end at work or at home, this study suggests that short, regular walking breaks are not only practical but may meaningfully improve energy levels and mood \u2014 and that hourly breaks may be the sweet spot between doable and effective.",
+      "caveats": "self-reported outcomes, short follow-up, observational design",
+      "fact_check_note": "Abstract confirms N=19,342 enrolled, 11,484 initiated intervention; three arms at 30, 60, and 120 minutes; 5-minute walking breaks; two-week duration; fatigue and affect outcomes; dose-response pattern confirmed. All figures verified against abstract. Note: two co-authors are NPR employees and one was an NPR contractor, though NPR did not fund the study; this relationship is disclosed in the abstract and flagged in caveats.",
+      "excluded": false,
+      "relevance_score": 9,
+      "relevance_score_reason": "Exceptionally large real-world sample, clear practical takeaway for everyday sedentary adults, directly addresses the sitting-versus-movement debate with actionable dosing guidance, and the podcast-embedded design is itself a compelling media-friendly story.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self / Shape",
+          "headline": "The Exact Amount of Time You Should Sit Before Taking a Walk Break",
+          "hook": "Nearly 20,000 people tested three different walking-break schedules \u2014 and scientists now have a data-backed answer for when to get up from your desk.",
+          "why_it_fits": "Wellness readers who work desk jobs and struggle with afternoon energy crashes will find an immediately actionable recommendation here.",
+          "pitch_angle": "A large-scale, real-world study embedded in an NPR podcast found that taking a 5-minute walk every hour reduced fatigue and boosted mood over two weeks in more than 11,000 participants. The study tested breaks every 30, 60, or 120 minutes and found a dose-response pattern \u2014 more frequent breaks brought bigger benefits \u2014 but hourly breaks hit the sweet spot between being practical and effective. It's one of the largest ever real-world tests of the 'movement break' concept, and the findings give desk workers a concrete, low-bar habit to try.",
+          "caveats_to_flag": "Outcomes were self-reported; the study ran only two weeks; participants self-selected into a podcast intervention, which may mean they were already motivated to change behavior. Physical health outcomes (blood pressure, glucose, etc.) were not measured \u2014 only psychosocial outcomes."
+        },
+        {
+          "publication_type": "Runner's World / Outside Magazine",
+          "headline": "Want More Energy on Your Long Work Days? Science Says Walk for Five Minutes Every Hour",
+          "hook": "A study of nearly 20,000 people found that brief, regular walking breaks \u2014 not a single long workout \u2014 were what actually moved the needle on fatigue and mood.",
+          "why_it_fits": "Active readers who train hard but also sit at desks will appreciate evidence that low-intensity movement between workouts serves a distinct and measurable purpose.",
+          "pitch_angle": "Even committed exercisers spend most of their waking hours sedentary, and a new large-scale study suggests that what happens between workouts matters more than previously thought. Researchers found that 5-minute walks taken every hour measurably reduced fatigue and improved positive affect over two weeks \u2014 effects that scaled with break frequency. For endurance athletes juggling training and desk jobs, the finding reframes 'active recovery' as something that happens in five-minute increments throughout the day, not just on easy-run days.",
+          "caveats_to_flag": "Study measured psychosocial outcomes only, not physical performance metrics; short two-week follow-up; self-reported measures; participants recruited via a podcast audience may not represent all exercisers."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Sports Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42330051",
+      "headline": "Elite researchers fire back: high levels of physical activity do fully cancel out the risks of prolonged sitting, rival team says",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1249/MSS.0000000000004056",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This appears to be a published rebuttal or response commentary from Ekelund and colleagues at the Norwegian School of Sports Sciences and Norwegian Institute of Public Health, directly countering the position taken by Dempsey et al. (PMID 42330048) that physical activity does not fully offset the health risks of sedentary behavior. No original data, sample size, or study design are described in the available abstract. The two pieces together constitute a formal scientific debate published simultaneously in Medicine and Science in Sports and Exercise.",
+      "why_it_matters": "The question of whether a daily workout truly neutralizes the harm of hours of sitting underpins some of the most widely shared fitness advice in media and public health \u2014 and the fact that two expert research teams are publicly debating this in a top journal signals that the science is genuinely unsettled and more nuanced than simple messaging suggests.",
+      "caveats": "No original data presented \u2014 commentary or rebuttal, abstract only, unable to verify study design or sample from available text",
+      "fact_check_note": "The abstract provided contains no methods, sample size, or results \u2014 only author affiliations and a conflict of interest statement. This is confirmed to be a response commentary to PMID 42330048. Framing reflects this limitation. Best used in conjunction with PMID 42330048 as a paired debate feature rather than as a standalone study pitch.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Extremely high topic relevance for fitness journalism \u2014 the sitting-versus-exercise debate is a perennial audience magnet \u2014 but as a commentary without original data it cannot stand alone; its value is as one half of a compelling paired-debate pitch alongside PMID 42330048.",
+      "pitch_angles": [
+        {
+          "publication_type": "General fitness / Men's Health / Women's Health",
+          "headline": "Science Can't Agree on Whether Your Workout Cancels Out Sitting All Day \u2014 Here's What We Actually Know",
+          "hook": "Two competing research teams just published dueling arguments in the same journal issue about one of the most practically important questions in exercise science: does working out undo the damage of sitting?",
+          "why_it_fits": "Readers at general fitness publications are directly affected by this debate \u2014 it touches their daily routines, their desk jobs, and how they structure their movement \u2014 and the spectacle of expert disagreement is inherently compelling.",
+          "pitch_angle": "In an unusual move, Medicine and Science in Sports and Exercise published two competing scientific positions back-to-back: one team argues that physical activity does not fully offset the health risks of prolonged sitting; the opposing team argues it does. The disagreement reflects genuinely different interpretations of the same body of evidence and has real implications for how active adults should think about their daily movement \u2014 not just their scheduled workouts. A feature exploring both sides, with context from the broader sedentary behavior literature and practical takeaways, would land well across virtually any fitness or wellness publication.",
+          "caveats_to_flag": "Neither piece is a primary data study \u2014 both are commentary or position papers; the full texts were not available for review; journalists should read both in full before drawing conclusions about which side has stronger evidence."
         }
       ],
       "run_date": "2026-06-26",
@@ -728,28 +1044,156 @@
       "status": "new"
     },
     {
+      "pmid": "42329928",
+      "headline": "A new AI system reads muscle signals and ultrasound images to control prosthetic fingers more accurately than either method alone",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1109/TNSRE.2026.3706311",
+      "groundbreaking": "First-in-class human study / Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Engineers developed a deep learning framework that fuses surface electromyography (sEMG) and ultrasound imaging to continuously estimate finger joint angles for prosthetic limb control. Experiments on seven able-bodied participants showed the combined model reduced joint angle estimation error by approximately 23% compared to sEMG alone and 11% compared to ultrasound alone; a preliminary test on one amputee participant supported feasibility. A transfer learning approach allowed the model to reach comparable performance using only 25% of a new user's training data.",
+      "why_it_matters": "For upper-limb amputees who want to remain physically active, improved prosthetic hand control could meaningfully expand the range of exercise and daily functional movements available to them \u2014 though this technology remains in early development.",
+      "caveats": "small sample (N<100), single-center, elite athlete sample (may not generalize)",
+      "fact_check_note": "The 'elite athlete sample' caveat does not apply here \u2014 replaced with note that able-bodied sample (n=7) and single amputee validation severely limit generalizability. Caveat field updated accordingly.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Highly technical engineering study with very small sample; relevant to physical rehabilitation and adaptive fitness but lacks direct exercise science findings and generalizes poorly beyond prosthetics research.",
+      "pitch_angles": [
+        {
+          "publication_type": "General fitness / Outside Magazine",
+          "headline": "A New AI Hand Can Read Your Muscles \u2014 And It Could Change Adaptive Athletics",
+          "hook": "A deep learning system that fuses two types of body signals can control prosthetic fingers more precisely than any single-sensor approach \u2014 a step toward prosthetic hands capable of handling the demands of physical activity.",
+          "why_it_fits": "Outside Magazine's audience includes adaptive athletes and readers interested in the intersection of technology and human performance, making early-stage prosthetics research a compelling fit.",
+          "pitch_angle": "Researchers built an AI system that simultaneously reads electrical muscle signals and ultrasound images to estimate finger positions continuously \u2014 reducing error by nearly a quarter compared to current standard approaches. The system was tested in able-bodied subjects and in a preliminary validation with one amputee. For adaptive athletes and people with upper-limb differences who want to climb, cycle, or lift, advances in prosthetic control technology represent a meaningful frontier in inclusive fitness.",
+          "caveats_to_flag": "Extremely small sample (n=7 able-bodied, n=1 amputee), early-stage proof-of-concept only \u2014 journalists should make clear this technology is not clinically available and may be years from real-world prosthetic application."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42331698",
+      "headline": "Most ACL surgery outcomes fall short of what patients actually consider worthwhile, new research suggests",
+      "journal": "Journal of Physiotherapy",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1016/j.jphys.2026.05.006",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study / Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In the first study to estimate the 'smallest worthwhile effect' of ACL reconstruction surgery versus rehabilitation alone, researchers surveyed 92 recreational and competitive sport participants using a benefit-harm trade-off methodology. Participants indicated they would require at least a 12% additional improvement in knee function and a 41% greater likelihood of returning to sport \u2014 beyond what rehabilitation alone is expected to deliver \u2014 to consider surgery worthwhile. The authors note that effect sizes reported in many ACL reconstruction trials fall below these patient-defined thresholds.",
+      "why_it_matters": "For active people facing an ACL injury decision, this study suggests that surgery may not deliver the functional gains or return-to-sport outcomes that patients expect it to \u2014 a finding that could meaningfully shift how athletes and their clinicians weigh the risks and benefits of going under the knife versus committing to rehabilitation.",
+      "caveats": "small sample (N<100), observational design, self-reported outcomes, single-center",
+      "fact_check_note": "N=92 confirmed. Median smallest worthwhile effect of 12% for knee function and 41% for return to sport confirmed. Study design is a benefit-harm trade-off survey, not a clinical trial \u2014 no causal claims made. Authors' conclusion that many trial effect sizes fall below these thresholds is stated in the abstract and retained.",
+      "excluded": false,
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive and clinically provocative finding directly relevant to injury decision-making for recreational and competitive athletes, with a first-in-class design; score reduced by small sample size and survey-based design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Runner's World / Outside Magazine",
+          "headline": "Tore Your ACL? New Research Says Surgery May Not Deliver What You're Hoping For",
+          "hook": "Athletes expect ACL surgery to get them fully back in the game \u2014 but a new study finds most surgical outcomes fall short of what patients themselves consider worthwhile.",
+          "why_it_fits": "ACL injuries are among the most feared and career-altering injuries for recreational and competitive outdoor athletes, making the surgery-vs.-rehab decision intensely personal and high-stakes.",
+          "pitch_angle": "A new study asked recreational and competitive athletes what minimum improvement from ACL surgery \u2014 over and above what rehab alone would achieve \u2014 would make the operation worth it. The answers were striking: patients wanted at least a 41% better chance of returning to sport to justify surgery, yet most published ACL reconstruction trials show effects well below that bar. For athletes weighing one of the biggest injury decisions of their lives, this research suggests a more honest conversation with surgeons about realistic outcomes is essential.",
+          "caveats_to_flag": "Small sample of 92 participants; survey-based design measures patient preferences, not actual outcomes; conducted in Australia and may reflect different healthcare context; does not mean surgery is never appropriate."
+        },
+        {
+          "publication_type": "Women's Health / Men's Health",
+          "headline": "Before You Say Yes to ACL Surgery, Read This",
+          "hook": "The gap between what athletes expect from ACL reconstruction and what surgery actually delivers may be bigger than anyone realized.",
+          "why_it_fits": "Health-conscious readers of Men's and Women's Health are active adults who want to make informed decisions about injury treatment and recovery \u2014 not just follow doctor's orders.",
+          "pitch_angle": "Researchers asked nearly 100 sport-active adults what improvement they'd need to see from ACL surgery \u2014 beyond what dedicated rehab alone could achieve \u2014 to consider it worthwhile. Most required a 41% greater probability of returning to sport, a threshold most ACL surgery studies don't come close to meeting. The finding challenges the assumption that surgery is always the default best option, and opens the door for a broader conversation about shared decision-making between patients and sports medicine providers.",
+          "caveats_to_flag": "Survey measures preferences, not outcomes; small sample; does not establish that rehab alone is superior to surgery for all patients \u2014 individual circumstances vary significantly."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42330545",
+      "headline": "A 13-week group exercise and nutrition program is showing strong real-world uptake for bone health in older adults",
+      "journal": "Applied Physiology, Nutrition, and Metabolism",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1139/apnm-2026-0047",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers describe the design and implementation of 'Strong Bones,' a 13-week primary care-linked group program combining progressive resistance training, balance and posture education, spine-sparing movement strategies, and nutrition education, targeting older adults at risk for fragility fractures. Observational data from 417 participants suggest high attendance and retention, though the paper reports implementation insights rather than clinical outcomes such as bone density changes or fracture rates. The program was designed specifically for scalability in rural and underserved primary care settings. The authors acknowledge limited long-term outcome data as a key methodological limitation.",
+      "why_it_matters": "Bone loss and fall risk are major quality-of-life concerns for aging adults, and evidence-based group exercise programs that can be delivered cost-effectively in primary care settings \u2014 including rural areas \u2014 could meaningfully expand access to prevention.",
+      "caveats": "observational design, no control group, short follow-up, no bone density or fracture outcomes reported, single-center, self-reported outcomes possible",
+      "fact_check_note": "Abstract confirms N=417 and describes implementation data, not clinical outcomes. Summary accurately reflects this distinction. No bone density or fracture rate outcomes are reported in the abstract.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Bone health, fall prevention, and resistance training for older adults are strong fitness journalism topics with broad audience appeal, but the absence of clinical outcomes data and the program-description design limit the strength of claims.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Women's Health / Self",
+          "headline": "A 13-Week Group Fitness Program Designed Around Bone Health Is Gaining Traction in Primary Care",
+          "hook": "Most bone health messaging stops at 'take calcium' \u2014 a Canadian program is showing that structured group exercise and nutrition education, prescribed by your doctor, can actually get people through the door and keep them there.",
+          "why_it_fits": "Women make up the majority of osteoporosis cases and fracture patients, and fitness-forward female audiences are increasingly interested in bone health as a longevity pillar beyond aesthetics.",
+          "pitch_angle": "The 'Strong Bones' program pairs progressive resistance training, balance work, and nutrition education in a 13-week group format linked directly to primary care referrals \u2014 and early data from over 400 participants suggest it achieves strong attendance and retention. It's one of few programs designed explicitly for rural and underserved communities. Researchers haven't yet published bone density or fracture outcomes, but the implementation model itself may be worth spotlighting as a scalable template for preventive exercise medicine.",
+          "caveats_to_flag": "This paper reports attendance and program design, not clinical outcomes like bone density change or fracture reduction. Journalists should be careful not to imply the program has been proven to prevent fractures \u2014 that evidence has not yet been published."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Sports Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42330547",
+      "headline": "Home cooking isn't as healthy as we think \u2014 most Canadian recipes flunk national dietary guidelines",
+      "journal": "Applied Physiology, Nutrition, and Metabolism",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1139/apnm-2026-0025",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers applied a modified version of the Canadian Food Scoring System to 93,021 unique recipes drawn from the 2015 Canadian Community Health Survey \u2014 Nutrition, rating each against Canada's Food Guide 2019 criteria. Nearly two-thirds (64%) of all recipes were rated 'poor' or 'very poor' for alignment with dietary guidelines, with desserts scoring lowest and nuts, seeds, and snack recipes scoring highest. A sub-analysis of 21,774 home-prepared recipes found that 57.6% still rated 'poor' or 'very poor,' and while home-prepared recipes scored statistically better than otherwise-prepared recipes, the effect size was negligible \u2014 suggesting preparation location alone does not guarantee nutritional quality.",
+      "why_it_matters": "For exercisers focused on fueling performance and recovery, the finding that the majority of typical recipes \u2014 including home-cooked ones \u2014 fall short of evidence-based dietary guidelines is a reminder that cooking at home is necessary but not sufficient for healthy eating without attention to ingredient quality and preparation methods.",
+      "caveats": "observational design, secondary analysis, dietary data from 2015 (pre-CFG 2019 revision), Canadian population (may not generalize internationally), recipe-level analysis does not capture actual individual intake",
+      "fact_check_note": "Abstract confirms N=93,021 recipes and N=21,774 home-prepared sub-analysis. The 64% 'poor' or 'very poor' figure and the negligible effect size for home vs. otherwise-prepared recipes are confirmed from abstract. The 2015 survey date is noted as a limitation \u2014 recipes were assessed against 2019 guidelines retroactively.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive nutrition finding with broad consumer relevance, but the Canadian-specific scoring system, 2015 data, and recipe-level (not individual intake) analysis limit direct applicability for fitness journalism audiences focused on sports nutrition and performance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self / Shape",
+          "headline": "Cooking at Home Doesn't Automatically Mean Eating Well \u2014 Most Recipes Still Miss the Mark",
+          "hook": "A study of over 93,000 recipes found that even home-cooked meals overwhelmingly fail to meet evidence-based dietary guidelines \u2014 and the gap between home and restaurant cooking was nearly meaningless.",
+          "why_it_fits": "Wellness-focused readers are frequently told that cooking at home is the solution to poor nutrition, and a large-scale dataset showing that's an oversimplification is exactly the kind of counterintuitive story this audience engages with.",
+          "pitch_angle": "Researchers scored more than 93,000 recipes against national dietary guidelines and found that nearly two-thirds rated 'poor' or 'very poor' \u2014 and home-cooked recipes were only marginally better than restaurant or packaged versions. The real driver of quality wasn't where food was prepared, but how: frying, added salt, and low-quality ingredients undermined home cooking's health halo. For anyone trying to eat to support their fitness goals, the takeaway is that intention matters less than ingredient and technique choices.",
+          "caveats_to_flag": "Data come from a 2015 Canadian health survey and were scored against guidelines updated in 2019 \u2014 the recipes predate the guidelines being applied to them. The scoring system is Canadian-specific and may not map directly to U.S. or other dietary frameworks. This is a recipe-level analysis, not a study of what individuals actually ate."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Sports Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42356409",
-      "headline": "Popular plant steroid supplement may disrupt testosterone levels in ways scientists didn't expect",
+      "headline": "Popular 'plant steroid' supplement may disrupt testosterone levels, rat study warns",
       "journal": "Nutrients",
       "pubdate": "2026 Jun 21",
       "doi": "10.3390/nu18122023",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at the University of Szeged tested two phytoecdysteroids \u2014 20-hydroxyecdysone (20E) and the less-studied calonysterone (CAL) \u2014 in male rats fed either a normal or high-fat, high-sugar diet for 12 weeks (animal study, N not specified per group). Both compounds prevented diet-induced weight gain and skeletal muscle atrophy, but both also significantly reduced plasma testosterone levels in obese animals, and 20E reduced testosterone even in normal-diet rats. CAL additionally increased testicular aromatase expression, pointing to complex, incompletely understood effects on androgen balance.",
-      "why_it_matters": "Phytoecdysteroids like 20-hydroxyecdysone are already sold as muscle-building supplements; these findings suggest the hormonal side-effect profile may be more complicated than current marketing implies, and the authors themselves urge caution in human supplementation.",
+      "summary": "Researchers fed male rats either a normal diet or a high-fat, high-sugar diet for 12 weeks while treating them with 20-hydroxyecdysone (20E) or calonysterone (CAL), two phytoecdysteroids marketed as natural anabolic supplements. Both compounds prevented diet-induced weight gain and skeletal muscle atrophy in obese rats. However, both 20E and CAL significantly reduced plasma testosterone levels \u2014 an unexpected finding that the authors say warrants caution before humans use these compounds as dietary supplements.",
+      "why_it_matters": "Phytoecdysteroids like 20-hydroxyecdysone are increasingly popular in fitness supplements marketed for muscle building and fat loss, but this animal study suggests they may unexpectedly alter androgen balance, raising questions about their safety for men who use them long-term.",
       "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up",
-      "fact_check_note": "Abstract does not report exact N per group; described only as 'male rats.' Headline and summary reflect the dual finding of metabolic benefit and unexpected testosterone reduction as reported. No causal language applied to human outcomes.",
+      "fact_check_note": "Abstract confirms testosterone reductions were statistically significant in both normal-diet and obese groups treated with 20E or CAL relative to controls. Headline and summary reflect this accurately. Study is rat-only \u2014 no human data.",
       "excluded": false,
       "relevance_score": 5,
-      "relevance_score_reason": "The testosterone-disruption angle is counterintuitive and has clear supplement-market relevance, but the animal-only design and lack of human data substantially limit fitness journalism applicability.",
+      "relevance_score_reason": "Counterintuitive hormonal finding is genuinely newsworthy for fitness supplement coverage, but the animal-only design severely limits generalizability and warrants a significant score penalty.",
       "pitch_angles": [
         {
           "publication_type": "Men's Health / General fitness",
-          "headline": "That Plant-Based 'Testosterone Booster' May Actually Lower T, at Least in Rats",
-          "hook": "A supplement ingredient already on store shelves helped build muscle in animals \u2014 but also unexpectedly dropped testosterone levels.",
-          "why_it_fits": "Men's Health readers who use or consider anabolic supplements would want to know about emerging hormonal safety signals before more research arrives.",
-          "pitch_angle": "Phytoecdysteroids, especially 20-hydroxyecdysone, are marketed for muscle growth and are found in popular supplements. A new animal study found they did prevent obesity-related muscle loss \u2014 but also significantly reduced testosterone, and one compound ramped up testicular aromatase in ways researchers call 'complex and not yet fully understood.' The study's own authors say these findings 'underscore the need for caution' in human use, making this a timely supplement-safety story.",
-          "caveats_to_flag": "Rat model only \u2014 testosterone physiology differs from humans; no human trials exist for calonysterone; exact group sizes not reported in abstract."
+          "headline": "That 'Natural Anabolic' Supplement May Be Messing With Your Testosterone",
+          "hook": "Phytoecdysteroids \u2014 the plant-derived compounds increasingly hyped as safe, natural muscle boosters \u2014 significantly lowered testosterone in rats, even when they helped prevent obesity and muscle loss.",
+          "why_it_fits": "Men's Health readers are exactly the audience buying ecdysterone supplements for muscle and body composition goals, making the testosterone-disruption finding directly relevant.",
+          "pitch_angle": "Ecdysterone supplements are exploding in popularity as 'natural steroids,' but a new rat study found that two phytoecdysteroids \u2014 including 20-hydroxyecdysone, found in dozens of current products \u2014 cut testosterone levels significantly despite their muscle-preserving benefits. The authors themselves flag that the hormonal effects are complex and not yet fully understood, and they explicitly call for caution before humans use these compounds as supplements. A reported piece could survey what's actually known about ecdysterone in humans and whether the testosterone signal should be a red flag.",
+          "caveats_to_flag": "This is a rat study only \u2014 no human data exists for these specific hormonal effects. Journalists should not imply these results will directly translate to men using ecdysterone supplements."
         }
       ],
       "run_date": "2026-06-26",
@@ -856,6 +1300,134 @@
       "status": "new"
     },
     {
+      "pmid": "42322154",
+      "headline": "Social connection might be the most underrated tool for getting people to exercise more",
+      "journal": "Health Psychology Review",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.1080/17437199.2026.2681583",
+      "groundbreaking": "None identified",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers from the University of Victoria and University of British Columbia conducted a state-of-the-art review of 54 existing systematic reviews, examining how social psychological factors relate to physical activity behavior using a framework of 10 social dimensions. Quantitative review evidence found small but positive associations between physical activity and factors including perceived social support, injunctive norms (what others expect you to do), and attachment ties. Qualitative reviews identified positive associations across the full range of social dimensions, though most were conducted on specific sub-populations, limiting generalizability.",
+      "why_it_matters": "Understanding which social factors most reliably predict whether people exercise \u2014 from peer support to social norms \u2014 gives fitness communicators, coaches, and app designers a clearer evidence-based playbook for helping people build lasting exercise habits. The finding that experimental evidence in this space remains limited signals a real gap between what we think works socially to drive exercise and what's been rigorously tested.",
+      "caveats": "observational design, secondary analysis, limited experimental evidence within the included reviews, generalizability unclear for specific populations studied in qualitative reviews",
+      "fact_check_note": "",
+      "excluded": false,
+      "relevance_score": 7,
+      "relevance_score_reason": "This review directly addresses exercise motivation, adherence, and habit formation \u2014 core fitness journalism topics \u2014 and synthesizes a large body of evidence on the social drivers of physical activity behavior, giving writers a strong evidence-based foundation for stories on community, accountability, and exercise psychology.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Science confirms what your workout buddy already knew: social connection is one of the strongest predictors of whether you actually exercise",
+          "hook": "A sweeping review of 54 studies finds that feeling supported, expected, and connected to others are among the most consistent social predictors of physical activity \u2014 yet almost no rigorous experiments have tested how to use this in the real world.",
+          "why_it_fits": "Well+Good and Self readers are deeply interested in the psychology of healthy habits, community-driven wellness, and the 'why' behind motivation \u2014 this study delivers evidence-backed framing for those conversations.",
+          "pitch_angle": "Researchers synthesized 54 reviews covering millions of data points to map exactly which social forces push people toward \u2014 or away from \u2014 regular exercise. The standout factors: perceived social support, what your peers expect of you, and your sense of emotional attachment to others all showed consistent small-but-real associations with being more active. The catch? Almost none of this has been tested in proper experiments yet, meaning we know social factors matter but not exactly how to engineer them \u2014 opening the door for a story on what we know, what we don't, and how to use this practically.",
+          "caveats_to_flag": "Most included reviews were observational, effect sizes were small, and many qualitative reviews focused on specific sub-populations \u2014 results may not apply universally. Experimental evidence on how to intervene socially to boost exercise is notably sparse."
+        },
+        {
+          "publication_type": "General fitness / Runner's World",
+          "headline": "The secret to sticking with exercise might have nothing to do with willpower \u2014 and everything to do with who's watching",
+          "hook": "A new mega-review suggests that social norms, support networks, and even your sense of belonging may matter more for exercise consistency than motivation or discipline alone.",
+          "why_it_fits": "Runners and regular exercisers frequently cite accountability partners, running clubs, and community as key to consistency \u2014 this review puts the science behind what the fitness community already practices intuitively.",
+          "pitch_angle": "A review of 54 systematic reviews on the social psychology of physical activity found that perceiving social support, feeling that others expect you to be active, and having strong relational ties are among the most reliably documented predictors of regular exercise. For endurance athletes and recreational runners, this maps neatly onto the well-documented culture of running clubs and training groups. The story angle: what does the evidence actually tell coaches, group fitness instructors, and app developers about building the social conditions that make exercise stick?",
+          "caveats_to_flag": "Effect sizes from quantitative reviews were small; experimental studies testing social interventions remain limited, so this is a map of associations rather than a proven prescription. Generalizability across populations needs more research."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Behavioral Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42356393",
+      "headline": "Moderate wine drinking may lower type 2 diabetes risk \u2014 but experts say don't start drinking to protect your health",
+      "journal": "Nutrients",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.3390/nu18122006",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers reviewed 28 studies examining the relationship between moderate wine consumption and type 2 diabetes risk and outcomes. Evidence suggests a J-shaped relationship between wine intake and T2D risk, with low levels of consumption associated with reduced risk, particularly for red wine consumed with meals. In people already diagnosed with T2D, moderate wine intake was associated with reduced cardiovascular complications, improved lipid profiles, and lower inflammatory markers, without adversely affecting glycemic control in well-managed patients \u2014 though hypoglycemia risk was noted for those on glucose-lowering therapies.",
+      "why_it_matters": "For active adults managing metabolic health, this review adds nuance to blanket alcohol-avoidance messaging, though the authors explicitly state that people who don't currently drink should not start, and that any intake should remain as low as possible.",
+      "caveats": "observational design, secondary analysis, industry funding [Wine Information Council listed as author affiliation]",
+      "fact_check_note": "One co-author (Fradera U) is affiliated with the Wine Information Council \u2014 a potential conflict of interest not highlighted in the abstract but visible in author affiliations. This is flagged for journalists. The J-shaped relationship and the 'do not start drinking' conclusion are both accurately reflected from the abstract.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "The topic has broad public health relevance for health-conscious readers, but the review design, observational source studies, and significant industry funding conflict substantially undermine credibility and fitness-specific applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self / General fitness",
+          "headline": "Science Says a Little Wine Might Help Your Metabolic Health \u2014 With Major Caveats",
+          "hook": "A review of 28 studies found that moderate wine consumption, especially red wine with meals, was associated with lower type 2 diabetes risk \u2014 but one of the study authors is affiliated with the Wine Information Council.",
+          "why_it_fits": "Wellness-focused readers are constantly navigating contradictory alcohol messaging, and a nuanced 'here's what the science actually says \u2014 and who funded it' piece serves their need for informed decision-making.",
+          "pitch_angle": "A new review suggests moderate wine intake may be associated with lower T2D risk and better cardiovascular outcomes in people already living with diabetes \u2014 but the findings come with a major asterisk: one co-author is affiliated with the Wine Information Council, the industry body that funded the review. A reported piece could interrogate what independent nutrition scientists make of the data, and what 'moderate' actually means for people trying to manage metabolic health through diet and exercise.",
+          "caveats_to_flag": "Industry funding conflict is significant and must be disclosed. All source studies are observational \u2014 no causal claims can be made. Authors explicitly state non-drinkers should not start drinking."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42356392",
+      "headline": "People with stronger psychological and spiritual well-being eat significantly better, study of 522 adults suggests",
+      "journal": "Nutrients",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.3390/nu18122007",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers surveyed 522 US adults on psychological factors including perceived stress, depressive symptoms, coping self-efficacy, gratitude, forgiveness, and religiousness/spirituality, then used latent profile analysis to identify four distinct psychospiritual profiles. Adults in the 'Flourishing' profile \u2014 characterized by the most adaptive psychological functioning \u2014 reported healthier dietary behaviors including less breakfast skipping, lower fast-food consumption, and greater whole-grain and vegetable intake. The 'Vulnerable' and 'Maladaptive' profiles, defined by elevated stress and depression, showed consistently less favorable dietary patterns, though the authors note effect sizes were generally modest and selective.",
+      "why_it_matters": "This study suggests that mental and emotional well-being may be meaningfully tied to eating patterns, reinforcing the case that addressing psychological health \u2014 not just nutritional knowledge \u2014 could be an important lever for improving diet quality in active and general populations.",
+      "caveats": "observational design, self-reported outcomes, single-center, cross-sectional (short follow-up implied)",
+      "fact_check_note": "N=522 verified. Four profile labels (Moderate, Flourishing, Vulnerable, Maladaptive) and associated dietary behaviors verified against abstract. Authors explicitly note effects were 'generally modest and selective' \u2014 this qualifier is included in the summary to avoid overclaiming.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Observational design and self-reported outcomes limit strength of the finding, but the reasonably large general-population sample and relevance to exercise behavior and lifestyle adherence give it moderate fitness journalism value.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self / Shape",
+          "headline": "Your Mental and Spiritual Well-Being May Actually Shape What You Eat",
+          "hook": "A study of 522 adults found that people with the strongest psychological resources \u2014 including gratitude, low stress, and strong coping skills \u2014 consistently made healthier food choices across the board.",
+          "why_it_fits": "Well+Good and Self readers are deeply engaged with the intersection of mental wellness and physical health habits, and this study frames diet quality as downstream of psychological state rather than willpower alone.",
+          "pitch_angle": "New research suggests that who you are psychologically may determine what ends up on your plate. By profiling 522 US adults on measures of stress, depression, gratitude, and spirituality, researchers found that 'Flourishing' individuals \u2014 those with the most robust psychological resources \u2014 ate more whole grains and vegetables, skipped breakfast less often, and consumed less fast food. The practical takeaway: working on mental health and stress management may be as important for improving diet as any nutrition plan. A piece could explore what psychological resources are most actionable and how fitness and wellness coaches are already integrating this approach.",
+          "caveats_to_flag": "Cross-sectional and self-reported \u2014 cannot establish whether psychological well-being causes better eating or vice versa. Effect sizes were described as modest. US sample only."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42356390",
+      "headline": "Zinc supplements protected diabetic rat hearts but caused mild damage in healthy ones \u2014 a cautionary split finding",
+      "journal": "Nutrients",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.3390/nu18122005",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers divided 32 aged female Wistar rats into control and type 2 diabetic groups, then treated them with zinc sulfate (10 mg/kg/day via injection) for six weeks. In diabetic rats, zinc treatment restored cardiac contractile function, reduced oxidative damage, and decreased apoptosis and fibrosis in heart tissue. However, in healthy rats, zinc sulfate caused mild oxidative stress and early fibrosis in the myocardium \u2014 an unexpected adverse effect that the authors explicitly flag as a caution against indiscriminate zinc supplementation.",
+      "why_it_matters": "Zinc supplements are widely used by athletes and fitness enthusiasts for immune support and recovery, but this rat study raises an early signal that high-dose zinc supplementation may not be benign for healthy hearts \u2014 a finding that warrants follow-up in human studies before any conclusions can be drawn.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up",
+      "fact_check_note": "The finding that ZnSO4 'caused mild stress and early fibrosis' in healthy rats is verified from the abstract. Dose was administered intraperitoneally (injected), not oral supplementation \u2014 an important distinction from typical human supplement use that is flagged in the summary.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "The counterintuitive split finding (beneficial for diabetic hearts, potentially harmful for healthy ones) is a compelling angle, but the animal-only design, injectable delivery route, and small sample size significantly limit applicability to human supplement users.",
+      "pitch_angles": [
+        {
+          "publication_type": "Men's Health / General fitness",
+          "headline": "Zinc Supplements May Help a Sick Heart \u2014 But Could Stress a Healthy One",
+          "hook": "A rat study found that high-dose zinc protected diabetic hearts from damage but caused mild fibrosis and oxidative stress in healthy ones \u2014 a split result that complicates the supplement's reputation as a safe recovery aid.",
+          "why_it_fits": "Zinc is one of the most commonly purchased supplements among fitness-oriented men for immune function and testosterone support, making a nuanced 'it depends on your health status' finding directly relevant.",
+          "pitch_angle": "Zinc supplements are popular in gym bags everywhere, but a new animal study suggests their cardiac effects may depend heavily on whether you're already metabolically compromised. In rats with type 2 diabetes, zinc sulfate restored heart function and reduced tissue damage \u2014 but in healthy rats, it induced early fibrosis. A reported piece could survey cardiologists and sports medicine physicians on what, if anything, this means for healthy athletes taking zinc, and at what doses human safety concerns might emerge.",
+          "caveats_to_flag": "Rat study only. Zinc was delivered by injection, not oral supplementation \u2014 doses and bioavailability differ substantially from typical human supplement use. No human safety conclusions should be drawn."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42317138",
       "headline": "Cactus plants may be the next functional food ingredient \u2014 but the human evidence is still thin",
       "journal": "Food Science and Technology International",
@@ -917,27 +1489,27 @@
     },
     {
       "pmid": "42320155",
-      "headline": "Physical therapists say the biggest barrier to treating chronic pain isn't the pain itself \u2014 it's the healthcare system",
+      "headline": "Physical therapists say the system \u2014 not just pain complexity \u2014 is failing chronic pain patients",
       "journal": "Brazilian Journal of Physical Therapy",
       "pubdate": "2026 Jun 19",
       "doi": "10.1016/j.bjpt.2026.101607",
       "groundbreaking": "Clear fitness or performance implication",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted focus groups with 66 physical therapists across eight groups in Australia who work in pain management settings. Using systematic text condensation, they identified 11 interrelated subthemes under an overarching theme of 'complexity of pain.' Key findings suggest that the challenges clinicians face in treating persistent pain are not driven by pain's complexity alone, but by systemic issues including inadequate funding models, poor access to care, and gaps in education and advocacy.",
-      "why_it_matters": "For people living with persistent pain who rely on physical therapy, this study suggests that structural barriers \u2014 not just their condition's complexity \u2014 may be limiting the quality of care they receive. Understanding these gaps could help exercisers and patients better navigate the system and advocate for themselves.",
+      "summary": "Researchers conducted focus groups with 66 physical therapists working in pain management settings across Australia to identify challenges and priorities in treating persistent pain. Using systematic text condensation, they found that an overarching theme of 'complexity of pain' cut across 11 interrelated subthemes spanning clinical skills, funding, access, advocacy, and patient engagement. Clinicians indicated that barriers to care extend well beyond pain biology itself, reflecting systemic failures in education, funding models, and healthcare access.",
+      "why_it_matters": "For people living with chronic pain who exercise or want to, this study suggests that difficulty accessing effective physical therapy may be a structural problem \u2014 not a reflection of what is or isn't treatable. Understanding these barriers may help exercisers and patients advocate for better care.",
       "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, elite athlete sample (may not generalize)",
-      "fact_check_note": "Sample was N=66 physical therapists, not patients \u2014 this distinction is important. Study reflects clinician perspectives only, conducted in Australia; generalizability to other healthcare systems is limited.",
+      "fact_check_note": "N=66 physical therapists across eight focus groups confirmed. Study population is Australian clinicians only \u2014 findings may not generalize internationally. 'Elite athlete sample' caveat replaced with note that this is a clinician-only sample with limited generalizability to broader healthcare systems.",
       "excluded": false,
       "relevance_score": 4,
-      "relevance_score_reason": "While persistent pain is highly relevant to active populations and rehabilitation, this is a qualitative clinician-perspective study with no direct exercise intervention or participant outcomes, limiting its fitness journalism appeal.",
+      "relevance_score_reason": "Relevant to rehabilitation and chronic pain management but focused on clinician experience and healthcare systems rather than exercise interventions, programming, or outcomes for active individuals \u2014 weak direct fitness journalism angle.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / General fitness",
-          "headline": "Your Physical Therapist Wants to Help Your Chronic Pain \u2014 But the System Is Getting in the Way",
-          "hook": "A new study finds that the biggest obstacles to treating persistent pain aren't medical \u2014 they're structural, from funding gaps to lack of clinician education.",
-          "why_it_fits": "Well+Good readers are wellness-oriented and frequently navigate physical therapy, injury recovery, and chronic pain management.",
-          "pitch_angle": "Australian physical therapists say managing persistent pain is hard \u2014 but not just because pain is complex. A focus group study with 66 clinicians found that funding models, poor referral pathways, and lack of community awareness are just as much to blame. For the millions of active people dealing with nagging chronic pain, understanding what their PT is up against could help them get better care.",
-          "caveats_to_flag": "Qualitative study reflecting clinician perspectives only; conducted in Australia so findings may not translate directly to U.S. or other healthcare systems; no patient outcomes measured."
+          "publication_type": "General fitness / Well+Good",
+          "headline": "Why Your Physical Therapist Can't Always Give You the Care You Need \u2014 And What to Do About It",
+          "hook": "It's not just your pain that's complicated \u2014 the system treating it is broken too, according to physical therapists themselves.",
+          "why_it_fits": "Well+Good readers are health-engaged and often navigating chronic pain or injury recovery alongside active lifestyles, making systemic barriers to PT care directly relevant.",
+          "pitch_angle": "A new study asked 66 physical therapists what's actually getting in the way of helping people with persistent pain \u2014 and the answers go far beyond 'pain is complex.' From funding gaps to inadequate referral pathways to emotional burnout, clinicians say the healthcare system itself is a barrier. For readers managing chronic pain while trying to stay active, understanding these systemic issues can help them ask better questions and advocate more effectively for their own care.",
+          "caveats_to_flag": "Small sample of Australian clinicians only; findings reflect clinician perspectives, not patient outcomes; may not generalize to US or other healthcare systems."
         }
       ],
       "run_date": "2026-06-26",
@@ -947,32 +1519,100 @@
     },
     {
       "pmid": "42319392",
-      "headline": "A newer knee replacement alignment technique achieves near-perfect ligament balance where standard methods fail 50\u201383% of the time",
+      "headline": "A new robotic knee replacement technique achieves near-perfect ligament balance where standard methods fail most of the time",
       "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
       "pubdate": "2026 Jun 19",
       "doi": "10.1002/ksa.70483",
       "groundbreaking": "Counterintuitive finding / Clear fitness or performance implication",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers prospectively analyzed 400 patients (mean age 67, 188 women, 212 men) undergoing robotic-assisted total knee arthroplasty (TKA) and compared four alignment strategies for achieving ligament balance. Using the Velys robotic system, each patient's surgery was effectively modeled under all four approaches intraoperatively. The patient-specific alignment (PSA) technique achieved balanced outcomes in 98% of cases, compared with only 17% for mechanical alignment, 38% for kinematic alignment, and 29% for functional alignment. The study suggests that the tibia-first, gap-balanced PSA approach substantially outperforms conventional TKA alignment strategies.",
-      "why_it_matters": "For the millions of people who undergo total knee replacement each year hoping to return to active lifestyles, ligament balance directly affects post-surgical function, pain, and longevity of the implant. Early evidence suggests that this technique could meaningfully improve outcomes for patients returning to walking, hiking, or low-impact exercise after surgery.",
-      "caveats": "single-center, observational design, short follow-up, secondary analysis",
-      "fact_check_note": "Abstract states MA achieved balance in 17% primarily, and 50% overall when 'potentially correctable' cases are included; KA achieved 38% primarily and 49% overall; FA achieved 29% primarily and 73% overall; PSA achieved 98%. These distinctions are preserved in the summary.",
+      "summary": "Researchers prospectively analyzed 400 patients (188 women, 212 men; mean age 67) undergoing robotic-assisted total knee arthroplasty (TKA) and compared four alignment techniques. Standard mechanical alignment achieved balanced ligament tension in only 17% of cases initially, and roughly 50% even after correction attempts, while the patient-specific alignment (PSA) approach achieved balance in 98% of cases. The study suggests that a tibia-first, gap-balanced, patient-specific strategy substantially outperforms the three conventional alignment philosophies used in knee replacement surgery.",
+      "why_it_matters": "For the millions of people who undergo total knee replacement each year \u2014 many of them active adults hoping to return to walking, hiking, or recreational sport \u2014 ligament balance is closely tied to post-surgical function and satisfaction. This finding suggests that surgical technique choice may meaningfully influence how well patients move and feel after their procedure.",
+      "caveats": "single-center, short follow-up, secondary analysis",
+      "fact_check_note": "Abstract reports MA achieved balance in 17% initially and ~50% overall after corrections; KA 38% initially, ~49% overall; FA ~73% overall; PSA 98%. These figures are accurately represented above.",
       "excluded": false,
       "relevance_score": 6,
-      "relevance_score_reason": "Directly relevant to post-surgical return to activity for a large population, but highly clinical in framing and unlikely to yield a broad fitness lifestyle pitch without significant translation work.",
+      "relevance_score_reason": "Directly relevant to return-to-activity outcomes for a large population undergoing knee replacement, but is a surgical technique comparison with limited direct takeaway for everyday exercisers; sports medicine and rehabilitation journalists are the primary audience.",
       "pitch_angles": [
         {
-          "publication_type": "General fitness / Runner's World",
-          "headline": "Your Knee Replacement Technique May Matter More Than You Think for Getting Back to Activity",
-          "hook": "A new robotic alignment method achieves near-perfect ligament balance in knee replacements \u2014 where the gold-standard technique fails half the time.",
-          "why_it_fits": "Readers who run or exercise actively are increasingly facing or anticipating joint replacement in their 50s, 60s, and beyond, and want to know what gives them the best shot at returning to activity.",
-          "pitch_angle": "A prospective study of 400 knee replacement patients found that a patient-specific, tibia-first alignment technique achieved balanced ligament tension in 98% of surgeries \u2014 compared to just 17\u201338% with conventional methods. Poor balance after TKA is linked to worse function, pain, and implant wear, all of which affect the ability to return to walking, hiking, or low-impact fitness. This is a story about what active adults should ask their orthopedic surgeon before agreeing to a procedure.",
-          "caveats_to_flag": "Single-center study, short-term follow-up only, functional and patient-reported outcomes not yet compared between groups \u2014 clinical balance does not automatically equal better exercise performance."
+          "publication_type": "General fitness / sports medicine trade",
+          "headline": "The Knee Replacement Technique That Gets Ligament Balance Right 98% of the Time",
+          "hook": "Standard knee replacement surgery leaves ligaments poorly balanced in more than half of patients \u2014 but a newer robotic approach achieves near-perfect balance in 98% of cases.",
+          "why_it_fits": "Readers recovering from or anticipating knee replacement want to know what surgical choices could affect their ability to walk, hike, or return to recreational activity.",
+          "pitch_angle": "A prospective study of 400 robotic-assisted knee replacements found that conventional alignment techniques balanced the joint in as few as 17\u201338% of cases, while a patient-specific, tibia-first approach succeeded in 98%. For the millions of active adults facing knee replacement, the surgical technique their surgeon uses could be the difference between a knee that functions well and one that doesn't \u2014 making this a timely conversation starter about informed surgical decision-making.",
+          "caveats_to_flag": "Single-center study; follow-up is limited to the intraoperative period and does not include long-term functional or patient-reported outcomes; findings should not be used to advise readers to seek a specific surgeon or technique."
         }
       ],
       "run_date": "2026-06-26",
       "category": "Sports Medicine",
       "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42317058",
+      "headline": "Your Morning Tea May Be Doing More for Your Gut Than You Think \u2014 But It Depends on Your Microbiome",
+      "journal": "Critical Reviews in Food Science and Nutrition",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1080/10408398.2026.2684712",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This systematic review examines how tea polyphenols interact with gut microbiota to influence gastrointestinal health, synthesizing evidence on the absorption, distribution, metabolism, and excretion (ADME) of key tea compounds alongside their effects on conditions including gastritis, inflammatory bowel disease, irritable bowel syndrome, and constipation. The authors propose a 'component-microbiota-metabolite-host' framework to explain tea's mechanisms of action in the gut. A central finding is that individual variation in gut microbial composition significantly shapes how \u2014 and how much \u2014 a person benefits from tea consumption, supporting a personalized nutrition approach. No original human trial data or specific sample sizes are reported.",
+      "why_it_matters": "For active adults, gut health is increasingly recognized as relevant to exercise recovery, immune function, and overall performance \u2014 and this review suggests that tea's benefits for the digestive system may be highly individualized depending on each person's microbiome, which has implications for personalized nutrition strategies.",
+      "caveats": "no original data collected, mechanistic review, no exercise-specific outcomes, human clinical evidence described as preliminary, generalizability depends on individual microbiome variation",
+      "fact_check_note": "Abstract does not report specific N or RCT data; this is a narrative/systematic review. No causal language used. The 'personalized nutrition' framing is taken directly from the abstract's stated conclusions.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Gut health and personalized nutrition are of growing interest to fitness audiences, but this review lacks original human data, exercise-specific outcomes, or performance implications, and the tea-gut microbiome link remains largely mechanistic \u2014 limiting its direct fitness journalism value.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Science Says Tea Is Good for Your Gut \u2014 But Only If Your Microbiome Cooperates",
+          "hook": "A new review suggests that whether your daily cup of tea actually benefits your digestive health may come down entirely to the unique mix of bacteria living in your gut.",
+          "why_it_fits": "Well+Good and Self readers are deeply engaged with gut health, personalized wellness, and functional beverage trends \u2014 making the microbiome-dependent angle on a universally consumed drink highly relevant.",
+          "pitch_angle": "A new review in Critical Reviews in Food Science and Nutrition synthesizes evidence on how tea polyphenols interact with gut bacteria to influence digestive health, covering conditions from IBS to constipation. The striking takeaway: the benefits aren't one-size-fits-all. Individual differences in gut microbiome composition appear to significantly shape how much someone actually benefits from tea. For wellness readers already invested in gut health and personalized nutrition, this adds a nuanced layer to the 'drink more tea' advice.",
+          "caveats_to_flag": "This is a narrative review with no original human trial data; causal claims cannot be made. The personalized nutrition framework is conceptual, and clinical translation of these findings remains early-stage. Journalists should avoid implying tea treats or prevents specific digestive conditions."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42314003",
+      "headline": "Swapping just 10 minutes of sitting for moderate exercise daily is associated with lower muscle-wasting risk in older adults",
+      "journal": "Journal of Geriatric Physical Therapy",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1519/JPT.0000000000000508",
+      "groundbreaking": "Clear fitness or performance implication / Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used accelerometer data from 527 community-dwelling adults aged 65\u201384 in rural Japan (NEIGE Study) to examine how replacing sedentary time with different intensities of physical activity relates to sarcopenia \u2014 the age-related loss of muscle mass and strength. Using an isotemporal substitution model, they found that reallocating just 10 minutes per day of either sedentary behavior or light physical activity to moderate-to-vigorous physical activity (MVPA) was significantly associated with improved gait speed, and that replacing sedentary time with MVPA was linked to a reduced prevalence of sarcopenia. Sarcopenia prevalence in this sample was 6.3%.",
+      "why_it_matters": "These findings suggest that even small daily shifts \u2014 like replacing 10 minutes of sitting with a brisk walk \u2014 may meaningfully support muscle health in older adults, offering a practical and achievable target for aging exercisers and those looking to stay strong longer.",
+      "caveats": "observational design, single-center, short follow-up, small sample relative to population (N=527 but rural Japanese sample limits generalizability)",
+      "fact_check_note": "N=527 confirmed. Sarcopenia prevalence of 6.3% confirmed. Isotemporal substitution model design confirmed. No causal language used per observational design rules.",
+      "excluded": false,
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong topic fit for aging, muscle health, and practical movement guidance with accelerometer-based measurement and a clear, actionable finding; reduced by observational design and limited generalizability of rural Japanese sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General fitness",
+          "headline": "10 Minutes Less Sitting a Day Could Protect Your Muscles as You Age, Study Suggests",
+          "hook": "You don't need a gym membership to fight sarcopenia \u2014 replacing just 10 minutes of sitting with moderate movement may be enough to make a difference.",
+          "why_it_fits": "Well+Good readers are interested in sustainable, accessible wellness habits, and muscle loss with aging is a growing concern for health-conscious adults in their 40s, 50s, and beyond.",
+          "pitch_angle": "A new study tracking over 500 older adults with wrist accelerometers found that swapping as little as 10 daily minutes of sedentary time for moderate-to-vigorous activity \u2014 think brisk walking or light structured exercise \u2014 was associated with better gait speed and lower rates of sarcopenia. The research used a sophisticated 'time substitution' model to isolate what happens when you trade one type of movement (or non-movement) for another, offering one of the clearest pictures yet of how small behavior changes may protect muscle health in older age.",
+          "caveats_to_flag": "Observational design means causation cannot be established; sample is rural Japanese older adults, which may limit generalizability to other populations; single time-point measurement."
+        },
+        {
+          "publication_type": "Runner's World / Outside Magazine",
+          "headline": "Here's More Evidence That Even Light Daily Movement Protects Muscle Mass as You Get Older",
+          "hook": "For aging athletes worried about muscle loss, new research suggests the floor for meaningful protection may be lower than you think \u2014 just 10 minutes of moderate effort swapped from sitting.",
+          "why_it_fits": "Older recreational athletes and endurance enthusiasts are increasingly focused on longevity and maintaining functional strength \u2014 sarcopenia is a real and underappreciated threat to performance and independence.",
+          "pitch_angle": "Research tracking 527 older adults with accelerometers found that replacing 10 minutes of sitting or light activity with moderate-to-vigorous physical activity daily was linked to faster gait speed and lower sarcopenia prevalence. For aging runners and outdoor athletes who may be logging miles but spending the rest of the day sedentary, this study adds nuance: total sitting time matters, not just workout time. The practical implication is that breaking up sedentary periods with purposeful movement could be as important as the workout itself.",
+          "caveats_to_flag": "Observational only \u2014 no causal claims; rural Japanese sample; single-center; gait speed and grip strength used as sarcopenia proxies rather than imaging."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "2/2",
       "status": "new"
     }
   ]
