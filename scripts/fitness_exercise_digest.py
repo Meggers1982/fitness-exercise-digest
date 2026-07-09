@@ -478,8 +478,8 @@ relevance_score rubric (1–10): start at 5, then adjust:
   −2 animal or cell study only
   −2 finding is tied to a single non-US/non-multinational region's diet, genetics, environment, or healthcare system in a way unlikely to resonate with or apply to a US/global audience (this does not apply to large multinational cohorts, WHO/global-health studies, or findings with a clear universal biological mechanism)
   Topic fit bonus: strength training and muscle mass, cardio and longevity, HIIT vs. steady-state, protein timing, sleep and recovery, exercise for mental health, running injury prevention, overtraining, VO2 max, zone 2 training, walking and health outcomes score higher
-
-{personalization}Return ONLY a valid JSON array, no other text.
+{personalization}
+Return ONLY a valid JSON array, no other text.
 
 Studies:
 {studies_block}"""
