@@ -33,12 +33,34 @@ Can also be triggered manually via **Actions -> Fitness & Exercise Research Dige
 
 | Category | Journals | Jobs |
 |---|---:|---|
-| Sports Medicine | 44 | 2 (chunks 1-2) |
+| Sports Medicine | 49 | 2 (chunks 1-2) |
 | Physical and Rehabilitation Medicine | 62 | 2 (chunks 1-2) |
 | Nutritional Sciences | 62 | 2 (chunks 1-2) |
 | Behavioral Sciences | 89 | 2 (chunks 1-2) |
 
 Large categories are split into chunks to keep run times under 20 minutes.
+
+The CSVs in `data/` are now hand-maintained. `scripts/extract_journals.py` built them from `~/PubMed_Journals_Categorized.xlsx`, which no longer exists, so re-running it would wipe any rows added by hand.
+
+## Journal list audit (2026-09-14)
+
+Method: pulled OpenAlex's top sources for the digest's subject areas over the prior year, diffed them against the four CSVs by ISSN and title, and kept only titles NCBI lists with PubMed articles in the last 12 months. Of 126 candidates, 102 were never usable (not in NCBI, or zero PubMed articles), and 24 were reviewed by hand.
+
+Added to `Sports Medicine.csv`:
+
+- **Journal of Strength and Conditioning Research** - 1533-4287, ~460 PubMed articles/yr, MEDLINE
+- **BMC Sports Science, Medicine and Rehabilitation** - 2052-1847, ~600/yr, PMC
+- **Journal of Aging and Physical Activity** - 1543-267X, ~140/yr, MEDLINE
+- **Biology of Sport** - 2083-1862, ~130/yr, PMC
+- **Journal of Human Kinetics** - 1899-7562, ~105/yr, PMC
+
+Left out:
+
+- **Not in PubMed** - most of the 102 dropped titles are Indonesian, Ukrainian and Russian physical-education journals (the largest: Scientific Journal of National Pedagogical Dragomanov University Series 15, International Journal of Physical Education Sports and Health, Gelanggang Olahraga JPJO, Uchenye Zapiski Universiteta imeni P.F. Lesgafta, COMPETITOR). English-language titles that also can't be searched: Sport, Education and Society; Journal of Teaching in Physical Education; Physical Education and Sport Pedagogy; European Physical Education Review; International Journal of Performance Analysis in Sport; International Journal of Strength and Conditioning; Quest; Human Movement.
+- **Too few PubMed articles** - International Journal of Sports Science & Coaching (216 on-topic articles in OpenAlex, 2 in PubMed), Strength and Conditioning Journal, Sports Engineering, Biomechanics (MDPI).
+- **MDPI, PMC-only** - Sports (~500/yr) and Journal of Functional Morphology and Kinesiology (~460/yr); at that volume they would crowd the 30 candidate slots without adding much signal.
+- **Orthopedic surgery, not exercise** - Journal of Foot & Ankle Surgery, Foot and Ankle Surgery, Foot & Ankle International, Foot & Ankle Orthopaedics, Foot & Ankle Specialist, Foot and Ankle Clinics, The Foot.
+- **Off-beat** - Osteoporosis International, Archives of Osteoporosis, Current Osteoporosis Reports and Journal of Clinical Densitometry (bone metabolism; already covered by the aging and women's health digests), Advances in Wound Care, Cereal Chemistry.
 
 ## Manual Trigger
 
