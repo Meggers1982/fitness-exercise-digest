@@ -17,7 +17,7 @@ A GitHub Actions workflow that searches curated exercise science, sports medicin
 
 Features:
 - Card view per study with headline, summary, caveats, fact-check notes
-- Expandable pitch angles section for publications such as Runner's World, Outside, Men's Health, Women's Health Magazine, Shape, Well+Good, and general health outlets
+- Expandable pitch angles section for publications such as Runner's World, Outside Magazine, Men's Health, Women's Health Magazine, Shape, Well+Good, Health.com, The New York Times (Well), Prevention, AARP The Magazine, and general health outlets
 - Filter by category, groundbreaking type, status, date range, and score
 - Search across all study text and pitches
 - Status tracking (New / Saved / Pitched / Passed) saved to localStorage

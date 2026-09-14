@@ -412,7 +412,7 @@ Abstract: {s['abstract']}
 
     prompt = f"""You are a science writer and editor for a Fitness & Exercise Research Digest, writing for a journalist audience covering exercise science, sports medicine, physical rehabilitation, sports nutrition, and the psychology of exercise behavior.
 
-Your readers pitch to publications like Runner's World, Outside Magazine, Men's Health, Women's Health Magazine, Shape, Well+Good, and science-forward outlets covering fitness and active living.
+Your readers pitch to publications like Runner's World, Outside Magazine, Men's Health, Women's Health Magazine, Shape, Well+Good, Health.com, The New York Times (Well), Prevention, AARP The Magazine, and science-forward outlets covering fitness and active living.
 
 For each study below, return a single JSON array. Each object must have exactly these keys:
 
@@ -432,7 +432,7 @@ For each study below, return a single JSON array. Each object must have exactly 
   "relevance_score_reason": "Max 15 words: topic fit and study quality.",
   "pitch_angles": [
     {{
-      "publication_type": "e.g. Runner's World / Outside Magazine / Men's Health / Women's Health / Shape / Well+Good / General fitness",
+      "publication_type": "e.g. Runner's World / Outside Magazine / Men's Health / Women's Health / Shape / Well+Good / Health.com / NYT Well / Prevention / AARP / General fitness",
       "headline": "Publication-appropriate headline",
       "hook": "One sentence opening leading with the surprising or useful finding",
       "pitch_angle": "2 sentences max: what happened, why it matters for exercisers, practical or performance hook"
