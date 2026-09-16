@@ -40,7 +40,7 @@ Can also be triggered manually via **Actions -> Fitness & Exercise Research Dige
 
 Large categories are split into chunks to keep run times under 20 minutes.
 
-The CSVs in `data/` are now hand-maintained. `scripts/extract_journals.py` built them from `~/PubMed_Journals_Categorized.xlsx`, which no longer exists, so re-running it would wipe any rows added by hand.
+The CSVs in `data/` are now hand-maintained. `scripts/extract_journals.py` built them from `~/PubMed_Journals_Categorized.xlsx`, which no longer exists, so the script has been deleted.
 
 ## Journal list audit (2026-09-14)
 
@@ -97,7 +97,6 @@ Add these in **Settings -> Secrets and variables -> Actions**:
 scripts/
   fitness_exercise_digest.py
   merge_results.py
-  extract_journals.py
 data/
   Sports Medicine.csv
   Physical and Rehabilitation Medicine.csv
