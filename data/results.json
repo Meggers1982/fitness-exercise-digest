@@ -1,39 +1,387 @@
 {
-  "last_updated": "2026-09-29T16:54:58.657528+00:00",
-  "total_studies": 527,
-  "new_this_run": 8,
+  "last_updated": "2026-10-01T16:55:40.382792+00:00",
+  "total_studies": 537,
+  "new_this_run": 10,
   "studies": [
     {
       "pmid": "42804713",
-      "headline": "A weekly dose of high-intensity multisport PE keeps teens' fitness from sliding \u2014 even a year later",
+      "headline": "A high-intensity multisport PE program kept teens fit all year \u2014 but didn't boost their well-being",
       "journal": "Medicine and Science in Sports and Exercise",
       "pubdate": "2026 Sep 28",
       "doi": "10.1249/MSS.0000000000004161",
-      "groundbreaking": "Clear fitness or performance implication / First-in-class human study",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study / Clear fitness or performance implication",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers ran a cluster RCT across 22 Danish schools, randomly assigning 517 adolescents to a teacher-delivered, high-intensity multisport program (three 40-minute sessions per week for 40 weeks) and comparing them to 860 controls in standard PE. The FIT FIRST Teen group showed significantly greater gains in cardiorespiratory fitness (106 m improvement on the Yo-Yo test), handgrip strength (~0.81 kg), and muscle mass (~0.44 kg). Crucially, a latent profile analysis found that teens in the intervention were more likely to hold onto high-fit status over time, while controls tended to drift toward worse fitness profiles.",
-      "why_it_matters": "A simple, teacher-led multisport swap for standard PE class could be enough to reverse the well-documented fitness slide during the teen years.",
-      "caveats": "single-center, Danish school population (may not generalize to other education systems), short follow-up (one school year), no well-being effects observed",
+      "summary": "A cluster randomized controlled trial across 22 Danish schools assigned 1,377 adolescents to either the FIT FIRST Teen high-intensity multisport program (three 40-minute sessions per week, teacher-delivered) or a standard PE control over 40 weeks. Students in the intervention group showed significantly greater gains in cardiorespiratory fitness, handgrip strength, and muscle mass compared to controls. However, no significant effects on well-being were observed, a notable null finding given that physical activity is widely assumed to improve adolescent mental wellness.",
+      "why_it_matters": "A structured, teacher-led school PE program can meaningfully improve teens' physical fitness over a full school year, even without boosting self-reported well-being \u2014 suggesting fitness and mental health benefits may require different program designs.",
+      "caveats": "single-center, observational design \u2014 note: this is an RCT so observational flag does not apply; short follow-up relative to habit formation",
       "fact_check_note": "",
       "relevance_score": 7,
-      "relevance_score_reason": "Strong RCT design, large N, clear fitness outcome; Danish-only setting limits generalizability.",
+      "relevance_score_reason": "Large RCT, counterintuitive null on well-being, strong fitness gains, broad youth-health relevance.",
       "pitch_angles": [
         {
-          "publication_type": "NYT Well / Prevention",
-          "headline": "The Simple PE Swap That Actually Keeps Teens Fit All Year",
-          "hook": "Most school PE programs can't stop adolescents from getting less fit as the year progresses \u2014 but one high-intensity multisport approach just did, in a large randomized trial.",
-          "pitch_angle": "A 40-week RCT in 22 Danish schools found that swapping standard PE for a teacher-led multisport program improved teens' cardiorespiratory fitness, grip strength, and muscle mass. The broader implication: structured intensity in gym class \u2014 not just free play \u2014 may be the lever schools have been missing."
+          "publication_type": "NYT Well",
+          "headline": "A Year of Intense School Sports Made Teens Fitter \u2014 But Not Happier",
+          "hook": "Exercise is supposed to be good for mental health, but a rigorous school fitness trial found no well-being benefit despite real physical gains.",
+          "pitch_angle": "A year-long randomized trial of a high-intensity multisport PE program improved cardiorespiratory fitness, grip strength, and muscle mass in over 500 Danish teenagers \u2014 but left their well-being scores unchanged, complicating the common narrative that more exercise automatically means better mental health for adolescents."
         },
         {
-          "publication_type": "General fitness / Health.com",
-          "headline": "Three 40-Minute Classes a Week Can Protect Teens' Fitness \u2014 If Schools Do This",
-          "hook": "Adolescent fitness typically declines over the school year, but a new large randomized trial found a multisport PE program reversed that trend.",
-          "pitch_angle": "Researchers found that teens in a high-intensity, teacher-delivered multisport program gained measurable cardio fitness and muscle mass compared to peers in standard PE. For parents and coaches, it's early evidence that program structure \u2014 not just time on a field \u2014 determines whether kids leave school fitter or not."
+          "publication_type": "Prevention / Health.com",
+          "headline": "This School Fitness Program Actually Worked \u2014 Here's What Made It Different",
+          "hook": "Most school PE programs fade out; this one kept kids fit for an entire school year using a surprisingly simple teacher-training model.",
+          "pitch_angle": "The FIT FIRST Teen program required just a one-day teacher training and a manual, yet produced significant improvements in teen cardiorespiratory fitness, strength, and muscle mass over 40 weeks in a large randomized trial \u2014 offering a practical, scalable blueprint for schools looking to reverse adolescent fitness declines."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Sports Medicine",
       "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42781749",
+      "headline": "Physical Therapists Are Winging the Mental Side of ACL Recovery \u2014 And They Know It",
+      "journal": "Sports Health",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1177/19417381261471381",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted qualitative focus group interviews with 21 experienced physiotherapists from Norway and the Netherlands who specialize in ACL reconstruction rehabilitation. PTs reported using strategies like individualized communication, goal-setting, and graded exposure to sport-specific movement to address patients' psychological readiness for return to sport. However, PTs also identified significant barriers \u2014 including limited formal psychological training, time pressure, and organizational gaps \u2014 that constrained their ability to fully support patients' mental recovery.",
+      "why_it_matters": "For athletes navigating ACL rehab, this study highlights that the psychological component of recovery is often being managed informally by their PT \u2014 and underscores why explicitly asking for and advocating for mental-health support during rehab may matter as much as the physical milestones.",
+      "caveats": "small sample (N<100), qualitative design, observational design, single-center (two countries only, Norway and Netherlands), elite athlete sample (may not generalize)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Addresses psychological barriers in ACL return-to-sport; qualitative design limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Runner's World / Outside Magazine / Women's Health",
+          "headline": "Your PT Is Trying to Manage Your ACL Anxiety \u2014 But They Weren't Really Trained For It",
+          "hook": "The mental fear of re-injury is one of the biggest barriers to returning to sport after ACL surgery \u2014 and the people guiding your rehab are often figuring out how to help you on the fly.",
+          "pitch_angle": "A qualitative study of experienced physical therapists found that while PTs actively work to build patient confidence and ease fear of re-injury during ACL rehab, most lack formal psychological training and face structural barriers to providing consistent support. For athletes, it reinforces why openly discussing fear and readiness with your PT \u2014 and potentially seeking a sports psychologist \u2014 could be a game-changer for return-to-sport outcomes."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Sports Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42782070",
+      "headline": "Patients make better hand surgery decisions when an occupational therapist is in the room from the very first visit",
+      "journal": "The American Journal of Occupational Therapy",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1177/19437676261487164",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This clinical perspective piece describes a one-year model used in two West Bank clinics (Palestine) where an occupational therapist and surgeon jointly consulted patients at the first visit for common hand conditions including carpal tunnel syndrome, trigger finger, and thumb base arthritis. The authors argue that patients currently meet occupational therapists only after a surgery decision is made, effectively cutting off the nonsurgical option from shared decision-making. The joint-consultation model is presented as a framework for more balanced, patient-centered care.",
+      "why_it_matters": "For active people facing hand surgery decisions \u2014 from carpal tunnel to trigger finger \u2014 getting a therapist's perspective before choosing surgery could mean finding a nonsurgical fix that gets them back to exercise faster.",
+      "caveats": "observational design, single-center, self-reported outcomes, no comparative data reported, West Bank clinical context may limit generalizability",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Practical patient angle but no outcome data; clinical commentary limits fitness media pitch strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "You Should See a Hand Therapist Before Deciding on Surgery \u2014 Not After",
+          "hook": "A new care model puts the occupational therapist in the room at the very first surgical consultation \u2014 and it could change which treatment you choose.",
+          "pitch_angle": "For common hand problems like carpal tunnel or trigger finger, surgery is often assumed to be the default, but noninvasive therapy can work just as well for many patients. A joint-consultation model suggests that having a therapist present when the decision is made leads to better-informed choices \u2014 and could save active people from an unnecessary operation."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42082021",
+      "headline": "People Will Swap Meat for Chickpeas \u2014 But Only If It Tastes Good and Fits Their Routine",
+      "journal": "Appetite",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1016/j.appet.2026.108569",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used structured interviews and means-end chain theory to explore why 43 omnivorous Portuguese consumers would or wouldn't accept pulse-protein dishes as meat substitutes. Novel chickpea-based recipes were well received, with taste, satiety, and meal-prep convenience driving acceptance \u2014 not environmental or animal welfare concerns. Sustainability messaging alone is unlikely to shift eating behavior; pleasure and habit-compatibility are the real levers.",
+      "why_it_matters": "For active people trying to eat more plant protein, framing legumes around taste and convenience \u2014 not eco-guilt \u2014 may be the most effective nudge.",
+      "caveats": "small sample (N<100), observational design, single-center, single-country (Portugal), qualitative methodology limits generalizability",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Nutrition angle but no exercise population, small qualitative sample, region-specific.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Why Telling People Chickpeas Are 'Sustainable' Doesn't Work \u2014 But Saying They're Delicious Does",
+          "hook": "A new study found that taste and convenience \u2014 not eco-consciousness \u2014 are what actually get people to swap meat for plant protein.",
+          "pitch_angle": "Portuguese consumers accepted chickpea-based dishes when they tasted good and fit easily into meal prep routines, not because of sustainability messaging. For readers building higher-protein plant-based meals, this suggests leading with flavor and simplicity over environmental arguments."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Behavioral Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42128227",
+      "headline": "Unsolved Riddles Make People More Willing to Eat Crickets \u2014 No, Really",
+      "journal": "Appetite",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1016/j.appet.2026.108587",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a between-subjects experiment (N=210), researchers tested whether curiosity triggered by unsolvable riddles \u2014 unrelated to food \u2014 could increase consumption of cricket-flour nachos versus conventional corn nachos. Participants whose curiosity was left unsatisfied ate significantly more of the insect-based snack, with state curiosity mediating the effect; food neophobia and sex moderated how strongly the effect held. The study provides early causal evidence that a general psychological state of curiosity can transfer to novel food trial.",
+      "why_it_matters": "For athletes and active people open to high-protein insect-based foods, the barrier may be psychological rather than nutritional \u2014 and surprisingly easy to nudge.",
+      "caveats": "small sample (N<100), single-center, lab setting may not reflect real eating behavior, effect size modest (~5% of serving), exploratory sex-difference analyses",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive behavioral finding; indirect nutrition relevance, modest effect size.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Outside Magazine",
+          "headline": "The Weird Psychological Trick That Makes You More Likely to Try Eating Crickets",
+          "hook": "Being left in suspense \u2014 like not knowing the answer to a riddle \u2014 actually makes people more willing to eat insect-based protein snacks, a new experiment found.",
+          "pitch_angle": "Researchers found that unsatisfied curiosity, triggered before eating, transferred into greater willingness to try cricket-flour chips \u2014 suggesting that novelty-seeking states lower the disgust barrier for unusual foods. For the growing cohort of fitness enthusiasts curious about insect protein, the mental hurdle may be easier to clear than expected."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Behavioral Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41992280",
+      "headline": "In Parkinson's Disease, How You Feel About Your Health Predicts Whether You Overestimate or Underestimate Your Balance \u2014 and That Gap Drives Falls",
+      "journal": "Journal of Neurologic Physical Therapy",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1097/NPT.0000000000000556",
+      "groundbreaking": "Counterintuitive finding / Clear fitness or performance implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a cross-sectional secondary analysis of 188 individuals with Parkinson's disease, measuring the gap between objective balance ability (Timed Up and Go test) and self-rated balance confidence. They found that perceived health, depression, and anxiety were more strongly linked to this balance discordance than disease severity or cognitive ability. People who felt better about their overall health tended to overestimate their balance ability, a mismatch associated with increased fall risk.",
+      "why_it_matters": "For people with Parkinson's \u2014 and those who care for them \u2014 understanding that mood and self-rated health, not just physical symptoms, shape fall risk suggests that addressing mental health and health perception could be a practical target for keeping people moving safely.",
+      "caveats": "observational design, secondary analysis, cross-sectional (no causality), single condition (Parkinson's disease \u2014 may not generalize to other populations)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive mental-health-to-fall-risk link; Parkinson's-only sample limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / AARP The Magazine",
+          "headline": "The Hidden Reason People with Parkinson's Fall \u2014 It's Not What You'd Expect",
+          "hook": "A new study suggests that how a person with Parkinson's disease feels emotionally may matter just as much as their physical balance when it comes to fall risk.",
+          "pitch_angle": "Researchers found that perceived health, depression, and anxiety predicted a dangerous mismatch between balance confidence and actual balance ability in 188 people with Parkinson's. Addressing mood and self-perception \u2014 not just physical therapy \u2014 could be a key strategy for fall prevention in older adults with neurological conditions."
+        },
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Your Mental State Could Be Skewing How Well You Think You Can Balance \u2014 With Real Consequences",
+          "hook": "Feeling optimistic about your health might actually make you overestimate how steady you are on your feet \u2014 and for people with Parkinson's, that gap is associated with falling.",
+          "pitch_angle": "A study of 188 Parkinson's patients found that self-rated health was the strongest predictor of whether someone misjudged their own balance ability, with depression and anxiety also playing significant roles. The finding suggests that mental and emotional wellbeing are inseparable from physical safety during exercise and daily movement."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42150746",
+      "headline": "Where your foot lands in the starting blocks may determine how fast you explode off the line",
+      "journal": "Journal of Applied Biomechanics",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1123/jab.2024-0201",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed ground reaction forces and joint mechanics during sprint starts in highly trained to world-class sprinters during live training sessions. They found that positioning the foot further behind the center of mass at initial contact was significantly correlated with shorter ground contact times and greater average horizontal forces \u2014 key drivers of acceleration. Increased horizontal force production was also linked to reduced shank angular velocity during impact and faster thigh rotation afterward.",
+      "why_it_matters": "For sprinters and their coaches, foot placement at block exit may be a trainable, measurable cue that directly influences first-step acceleration.",
+      "caveats": "small sample (N<100), elite athlete sample (may not generalize), observational design, single-center",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Elite sprinter sample limits generalizability; clear performance cue but narrow audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "Outside Magazine",
+          "headline": "The Tiny Foot-Placement Tweak That Could Make Sprint Starts Dramatically More Explosive",
+          "hook": "Where your front foot lands when you leave the blocks may matter more than how hard you push.",
+          "pitch_angle": "New biomechanics research on world-class sprinters suggests that foot position at initial contact \u2014 not just raw leg power \u2014 shapes how much horizontal force an athlete generates in the critical first step. Coaches working with competitive runners of any level could use this as a concrete, observable cue during training."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Sports Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710386",
+      "headline": "Fatty Liver Disease Has a Hidden Driver \u2014 And Your Diet May Help Fix It",
+      "journal": "Nutrition Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.nutres.2026.08.002",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review from researchers at Heilongjiang University of Chinese Medicine examines how the interaction between oxidative stress and iron dysregulation drives metabolic dysfunction-associated fatty liver disease (MAFLD), and surveys dietary strategies \u2014 including specific dietary patterns, bioactive compounds, individual nutrients, and probiotics \u2014 that may interrupt this cycle. No original human trial data were collected; the review synthesizes existing evidence. The authors conclude that targeted dietary interventions show early promise but require more rigorous clinical trials.",
+      "why_it_matters": "For the millions of active adults with fatty liver disease, emerging evidence suggests that specific dietary choices \u2014 not just weight loss \u2014 may target the underlying liver damage mechanisms.",
+      "caveats": "observational design, single-center",
+      "fact_check_note": "This is a narrative review, not an original study \u2014 no N reported. Caveats reflect review methodology.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Dietary intervention topic relevant to active adults; review design limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / Prevention",
+          "headline": "The Overlooked Reason Your Liver Struggles \u2014 And the Foods That May Help",
+          "hook": "A new review suggests fatty liver disease isn't just about fat \u2014 iron overload and oxidative stress play a central role, and diet may address both.",
+          "pitch_angle": "Researchers mapped how excess iron and cell-damaging reactive oxygen species team up to worsen fatty liver disease, then identified dietary patterns and compounds \u2014 from probiotics to specific nutrients \u2014 that may break the cycle. The science is early, but it reframes fatty liver as a condition where what you eat matters beyond just cutting calories."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41918470",
+      "headline": "A hands-on therapy combo eases stubborn tailbone pain in 87% of patients within five weeks",
+      "journal": "The Journal of Manual & Manipulative Therapy",
+      "pubdate": "2026 Oct",
+      "doi": "10.1080/10669817.2026.2650489",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested a combined approach of myofascial physical therapy and instrument-assisted soft tissue mobilization (IASTM) in 15 patients \u2014 predominantly female \u2014 with chronic coccygodynia (tailbone pain). Over five weeks of treatment, 13 of 15 participants (87%) achieved meaningful pain reduction. Secondary improvements in urinary incontinence and reliance on supportive sitting aids were also observed.",
+      "why_it_matters": "For people who struggle to sit through workouts, long runs, or cycling due to chronic tailbone pain, this hands-on approach suggests a potential noninvasive path to relief.",
+      "caveats": "small sample (N<100), observational design, single-center, no control group, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Niche rehab condition; tiny uncontrolled case series limits generalizability and practical fitness angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Chronic Tailbone Pain Is Making Exercise Miserable for a Lot of People \u2014 Here's a Hands-On Fix That Showed Real Promise",
+          "hook": "Nearly nine out of ten patients with chronic tailbone pain got significant relief in just five weeks using two manual therapy techniques.",
+          "pitch_angle": "A small Italian study found that combining myofascial therapy with instrument-assisted soft tissue work cut tailbone pain dramatically in most patients. For anyone whose cycling, rowing, or desk-to-gym routine is derailed by coccyx pain, the finding points to a noninvasive option worth asking a physical therapist about."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42086434",
+      "headline": "Experts reach consensus on how to actually measure pain in adults with cerebral palsy \u2014 a group long overlooked in pain research",
+      "journal": "Disability and Health Journal",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.dhjo.2026.102080",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A nine-month modified Delphi study involving 21 stakeholders \u2014 clinicians, pain experts, and people with lived experience of cerebral palsy \u2014 developed a standardized framework for assessing pain in adults with CP during routine clinic visits. Consensus (\u226575% agreement, reaching 90\u2013100%) was reached on four pain domains: location, onset, quality, and intensity, with specific standardized tools selected for each. The framework aims to reduce the chronic misclassification of pain in this population.",
+      "why_it_matters": "Adults with cerebral palsy are often physically active or in rehabilitation programs where unrecognized pain can derail progress, and a standardized assessment tool could meaningfully improve their care.",
+      "caveats": "small sample (N<100), observational design, consensus methodology only \u2014 no clinical outcomes tested yet",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Important clinical gap but limited direct fitness audience applicability; no intervention tested.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / Prevention",
+          "headline": "Adults with Cerebral Palsy Are Routinely Misdiagnosed for Pain \u2014 Experts Just Built a Tool to Fix That",
+          "hook": "A panel of clinicians and people living with cerebral palsy finally agreed on a standardized way to assess pain \u2014 a problem that's gone unsolved for decades.",
+          "pitch_angle": "Chronic pain is extremely common in adults with CP, but there's been no agreed-upon way to measure or classify it, leading to undertreated pain and poor rehab outcomes. This expert consensus framework is a first step toward making sure pain is caught and treated properly during routine medical visits."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42603472",
+      "headline": "Staying physically active cuts osteoporosis risk in arthritis patients \u2014 and better mood may be part of why",
+      "journal": "Musculoskeletal Science & Practice",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.msksp.2026.103637",
+      "groundbreaking": "Clear fitness or performance implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using data from two large aging cohorts \u2014 the U.S. Health and Retirement Study (HRS, N=8,032 arthritis patients) and the English Longitudinal Study of Ageing (ELSA, N=2,984 arthritis patients) \u2014 researchers found that physically active adults with arthritis had significantly lower risk of developing osteoporosis compared to inactive peers (HRS hazard ratio 0.86; ELSA hazard ratio 0.70). The protective effect was stronger in younger patients and those with heart disease or depression. Notably, depression mediated roughly 37% of the benefit in the U.S. cohort, suggesting that physical activity's mood-boosting effects partly explain the bone-protective association.",
+      "why_it_matters": "For the millions of adults managing arthritis, staying active appears to protect against a second serious condition \u2014 osteoporosis \u2014 and the mental health lift from exercise may be part of the mechanism.",
+      "caveats": "observational design, self-reported outcomes, no randomization, mediation finding should be interpreted cautiously",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large dual-cohort; practical fitness takeaway; surprising mood-mediation mechanism adds counterintuitive angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / AARP The Magazine",
+          "headline": "Exercise Protects Arthritic Joints from a Second Bone Disease \u2014 and Fighting Depression May Be the Secret",
+          "hook": "A large two-country study found that staying active could slash osteoporosis risk in people with arthritis by up to 30% \u2014 and better mental health may be driving part of the benefit.",
+          "pitch_angle": "Researchers tracked tens of thousands of aging adults in the U.S. and UK and found that physically active arthritis patients were significantly less likely to develop osteoporosis over time. Intriguingly, improvements in depression explained more than a third of the protective effect in the U.S. group, suggesting exercise's mood benefits do double duty for bone health."
+        },
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Here's Another Reason People with Arthritis Should Keep Moving: It Appears to Shield Bones from a Second Disease",
+          "hook": "Staying physically active is already recommended for arthritis \u2014 but a new large study suggests it may also protect against osteoporosis, partly by lifting mood.",
+          "pitch_angle": "Data from over 11,000 arthritis patients in the U.S. and England found that active individuals were significantly less likely to develop osteoporosis, with the benefit partly explained by lower rates of depression. The finding adds a compelling new reason for people managing joint conditions to prioritize movement \u2014 even light activity."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Physical and Rehabilitation Medicine",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42258036",
+      "headline": "Elite endurance athletes are eating 90-plus grams of carbs per hour \u2014 but science can't fully explain why it works",
+      "journal": "Sports Medicine",
+      "pubdate": "2026 Oct",
+      "doi": "10.1007/s40279-026-02462-z",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a current opinion review, exercise scientists examined the growing trend of ultra-high carbohydrate ingestion (typically more than 90 g per hour) among elite endurance athletes, analyzing whether established physiological mechanisms \u2014 such as glycogen sparing and exogenous carbohydrate oxidation \u2014 can account for the performance gains athletes report. The authors found a clear disconnect between metabolic data and real-world carbohydrate intake levels, noting that current evidence does not fully support intakes far beyond established oxidation ceilings. They propose alternative mechanisms \u2014 including lactate shuttling and potential central nervous system effects \u2014 as areas requiring further research, while cautioning that individual variation in carbohydrate oxidation capacity may be critical.",
+      "why_it_matters": "For endurance athletes and coaches chasing elite fueling strategies, this review suggests that blanket adoption of extreme carb-loading during races may be outpacing the science \u2014 and that individual tolerance and oxidation capacity may matter more than any universal target.",
+      "caveats": "observational design, secondary analysis, elite athlete sample (may not generalize), preprint \u2014 note: this is a published opinion/review piece, not an original study; one author (Plews) has affiliation with a micronutrition company (Pillar Performance)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive challenge to popular elite fueling trend; strong practical angle for endurance audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "Outside Magazine",
+          "headline": "Everyone's Pounding 120 Grams of Carbs Per Hour. The Science Says: Slow Down.",
+          "hook": "Ultra-high carbohydrate fueling has become gospel among elite endurance athletes \u2014 but a new review finds the physiology doesn't fully back it up.",
+          "pitch_angle": "A Sports Medicine opinion piece finds that athletes are ingesting carbs at rates far beyond what their bodies can demonstrably oxidize, and that traditional mechanisms like glycogen sparing don't explain all the perceived benefits. The authors raise emerging ideas \u2014 including CNS effects and lactate shuttling \u2014 and flag individual variation as a likely key factor that current blanket recommendations ignore."
+        },
+        {
+          "publication_type": "Runner's World",
+          "headline": "Is 120 Grams of Carbs Per Hour Actually Helping You Race Faster \u2014 Or Just Trending?",
+          "hook": "The ultra-carb fueling trend sweeping elite marathons and triathlons may be ahead of what the science can actually prove.",
+          "pitch_angle": "Sports scientists reviewed the evidence behind eating 90-plus grams of carbs per hour during endurance events and found that established metabolism research doesn't fully account for the performance benefits athletes swear by. Until research catches up, individual experimentation \u2014 rather than copying elite protocols \u2014 may be the smarter approach for recreational endurance athletes."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Sports Medicine",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42813573",
+      "headline": "A High-Intensity Multisport PE Program Boosts Kids' Cardio Fitness Over a Full School Year \u2014 But Doesn't Move the Mental Health Needle",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/sms.70374",
+      "groundbreaking": "First-in-class human study / Clear fitness or performance implication / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers ran a cluster-randomized controlled trial across 30 Danish schools with 1,652 students aged 10\u201313, comparing a high-intensity multisport PE program (three 40-minute sessions per week for ~40 weeks) against standard PE curriculum. The intervention significantly improved cardiorespiratory fitness (Yo-Yo test), agility, and lower-body power compared to controls. However, no significant intervention effects were found for psychological outcomes including motivation for physical activity, physical self-concept, or health-related quality of life \u2014 a counterintuitive null finding given widespread assumptions that active PE boosts kids' wellbeing.",
+      "why_it_matters": "For parents, educators, and policymakers, this suggests that making PE more physically intense can meaningfully improve kids' fitness, but improving the psychological benefits of exercise may require a different approach beyond simply adding intensity.",
+      "caveats": "single-center, Danish school population (may not generalize to other school systems or demographics), short follow-up (1 year; 2-year results pending)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large RCT, counterintuitive psychological null finding, strong practical relevance to PE and youth fitness.",
+      "pitch_angles": [
+        {
+          "publication_type": "NYT Well / Prevention / Health.com",
+          "headline": "Intense School PE Gets Kids Fitter \u2014 But Won't Automatically Make Them Love Exercise",
+          "hook": "A year of high-intensity, multisport gym class made kids measurably fitter \u2014 but did nothing to boost their motivation to move or their sense of wellbeing.",
+          "pitch_angle": "A large Danish school trial found that tripling kids' workout intensity in PE significantly improved cardiovascular fitness and physical power, but left psychological outcomes like exercise motivation and self-concept unchanged. The finding suggests that getting kids fit and getting them to love being active may require two very different strategies."
+        },
+        {
+          "publication_type": "Well+Good / Shape",
+          "headline": "More Intense PE Makes Kids Fitter \u2014 But the Mental Health Boost Doesn't Follow Automatically",
+          "hook": "Swapping standard gym class for high-intensity multisport sessions improved kids' cardio and agility \u2014 but their motivation and sense of wellbeing didn't budge.",
+          "pitch_angle": "A year-long randomized trial in over 1,600 students found that high-intensity PE delivered real fitness gains, but failed to move the psychological needle \u2014 a reminder that physical and mental benefits of exercise don't always come as a package deal."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Sports Medicine",
+      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -137,66 +485,6 @@
           "headline": "Exercise After a Heart Attack Is Evidence-Based Medicine \u2014 So Why Can't Most Patients in Latin America Access It?",
           "hook": "Cardiac rehabilitation \u2014 structured, supervised exercise following a heart attack \u2014 dramatically cuts death and re-hospitalization rates, yet the vast majority of eligible patients in Latin America never get it.",
           "pitch_angle": "A new global audit finds cardiac rehab programs remain scarce across Latin America and the Caribbean, leaving most heart attack survivors without access to one of medicine's best-proven recovery tools. The findings put a spotlight on exercise medicine access as a global health equity issue."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Physical and Rehabilitation Medicine",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42781749",
-      "headline": "Physical therapists are quietly doing psychology in ACL rehab \u2014 but many feel undertrained for it",
-      "journal": "Sports Health",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1177/19417381261471381",
-      "groundbreaking": "Clear fitness or performance implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted focus group interviews with 21 experienced physiotherapists in Norway and the Netherlands to understand how they address psychological readiness during ACL reconstruction rehabilitation. PTs reported using strategies like therapeutic alliance-building, goal-setting, milestone tracking, and graded exposure to sport-specific movements, but identified limited formal psychological training and time constraints as significant barriers. The study highlights a structural gap between what clinical guidelines recommend and what PTs are equipped to deliver.",
-      "why_it_matters": "For the many athletes who struggle with fear of reinjury after ACL surgery, this research suggests the people guiding their physical recovery may not be fully equipped to address the psychological side \u2014 a factor known to strongly predict return-to-sport success.",
-      "caveats": "small sample (N<100), qualitative design, single-center, elite athlete sample (may not generalize)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Strong practical hook for ACL rehab audience; qualitative design limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Runner's World / Outside Magazine",
-          "headline": "Your PT Is Your Comeback Coach \u2014 But They May Not Be Trained for the Mental Part",
-          "hook": "Physical therapists say fear of reinjury is one of the biggest hurdles in ACL rehab \u2014 and most feel underprepared to tackle it.",
-          "pitch_angle": "A new qualitative study found that PTs are already improvising psychological support during ACL rehab, using goal-setting and gradual return to sport \u2014 but lack formal training to do it systematically. For athletes whose mental readiness is just as critical as their quad strength, the gap between guideline recommendations and real-world PT practice could be costing them a full comeback."
-        },
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "ACL Recovery Is as Much Mental as Physical \u2014 But the System Isn't Set Up That Way",
-          "hook": "Physical therapists know their patients are scared, but a new study reveals they're winging the psychological support \u2014 without proper training or time.",
-          "pitch_angle": "Researchers found that experienced PTs actively try to build trust and ease fear during ACL rehab, but face real barriers including limited psychological training and time pressure. The findings suggest that integrating mental health professionals into rehab teams could meaningfully improve return-to-sport outcomes for people recovering from one of sports' most feared injuries."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Sports Medicine",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42782070",
-      "headline": "Hand surgery patients may be choosing the knife before ever hearing the non-surgical option",
-      "journal": "The American Journal of Occupational Therapy",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1177/19437676261487164",
-      "groundbreaking": "Clear fitness or performance implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers argue that for common hand conditions like carpal tunnel syndrome and trigger finger, occupational therapists should be present at the very first surgical consultation \u2014 not brought in only after a patient has already agreed to surgery. Drawing on a one-year pilot model at two West Bank clinics (Palestine) where surgeons and occupational therapists saw patients jointly, the authors found the co-consultation model made nonsurgical options more visible and supported shared decision-making. The study is a clinical perspective/case report rather than a controlled trial, so no comparative outcome data are provided.",
-      "why_it_matters": "For anyone weighing hand surgery, knowing that non-surgical rehab is a legitimate first-line option \u2014 not a consolation prize \u2014 could change the conversation with your doctor.",
-      "caveats": "small sample (N<100), single-center, observational design, narrow regional context (West Bank, Palestine), no comparative outcome data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Rehabilitation angle relevant but clinical/policy focus; no exercise outcome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / Prevention",
-          "headline": "You Might Be Rushing Into Hand Surgery \u2014 Here's What Doctors Say You Should Do First",
-          "hook": "For carpal tunnel, trigger finger, and thumb arthritis, patients are often handed a surgery date before anyone mentions the non-surgical alternative.",
-          "pitch_angle": "A new clinical model argues occupational therapists should sit in on the very first surgical consult, so patients can weigh rehab against the OR before committing. The approach, piloted in Palestine, highlights a gap that likely exists in clinics everywhere."
         }
       ],
       "run_date": "2026-09-29",
